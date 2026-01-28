@@ -213,7 +213,7 @@ const config = {
         { 
             id: 37, 
             nome: "06 - GOVERNANÇA: Governança de TI", 
-            color: colors.blueDark,
+            color: colors.red,
             desc: "Capacita o colaborador a implementar e gerenciar estruturas de governança de TI, alinhando a tecnologia aos objetivos do negócio."
         },
         { 
@@ -231,9 +231,16 @@ const config = {
         { 
             id: 38, 
             nome: "06 - GOVERNANÇA: ITIL 4 Foundation", 
-            color: colors.blueDark,
+            color: colors.red,
             desc: "Ensina os fundamentos do ITIL 4, preparando o colaborador para aplicar boas práticas de gerenciamento de serviços de TI."
         },
+        { 
+            id: 39, 
+            nome: "06 - GOVERNANÇA: COBIT 2019", 
+            color: colors.red,
+            desc: "Apresenta o framework COBIT 2019, capacitando o colaborador a gerenciar e governar a TI dentro das organizações."
+        },
+		
         { 
             id: 71, 
             nome: "06 - GOVERNANÇA: FAMÍLIA ISO 20000", 
@@ -247,12 +254,6 @@ const config = {
             desc: "Ensina a importância da conformidade com as normas da família ISO 27000, preparando o colaborador para garantir a segurança da informação."
         },
         { 
-            id: 39, 
-            nome: "06 - GOVERNANÇA: COBIT 2019", 
-            color: colors.blueDark,
-            desc: "Apresenta o framework COBIT 2019, capacitando o colaborador a gerenciar e governar a TI dentro das organizações."
-        },
-        { 
             id: 40, 
             nome: "06 - GOVERNANÇA: FAMÍLIA ISO 42000", 
             color: colors.red,
@@ -261,7 +262,7 @@ const config = {
         { 
             id: 41, 
             nome: "06 - GOVERNANÇA: AgileShift", 
-            color: colors.blueDark,
+            color: colors.red,
             desc: "Introduz o framework AgileShift, ensinando como gerenciar transformações ágeis em toda a organização."
         },
 
@@ -1736,6 +1737,7 @@ const config = {
     ]
 
 };
+
 
 
 
