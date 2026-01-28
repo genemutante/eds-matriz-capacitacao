@@ -49,6 +49,13 @@ const config = {
             desc: "Fornece resumos rápidos de livros, facilitando o acesso ao conhecimento de obras importantes para o desenvolvimento pessoal e profissional."
         },
         { 
+            id: 76, 
+            nome: "02 - DESENV. PESSOAL: Metodologia DISC", 
+            color: colors.black,
+            desc: "Ensina a metodologia DISC, ajudando o colaborador a entender perfis comportamentais para melhorar a comunicação e a gestão de equipes."
+        },
+		
+        { 
             id: 7, 
             nome: "03 - OUTSOURCING: Service Desk", 
             color: colors.orange,
@@ -440,12 +447,7 @@ const config = {
             color: colors.red,
             desc: "Ensina os conceitos básicos de gestão de projetos, capacitando o colaborador a planejar, executar e monitorar projetos com sucesso."
         },
-        { 
-            id: 76, 
-            nome: "16 - GOVERNANÇA: Metodologia DISC", 
-            color: colors.red,
-            desc: "Ensina a metodologia DISC, ajudando o colaborador a entender perfis comportamentais para melhorar a comunicação e a gestão de equipes."
-        },
+
         { 
             id: 13, 
             nome: "17 - PROCESSOS: Mapeamento de Processos", 
@@ -1737,6 +1739,7 @@ const config = {
     ]
 
 };
+
 
 
 
