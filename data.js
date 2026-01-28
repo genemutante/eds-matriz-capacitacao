@@ -402,7 +402,7 @@ const config = {
         { 
             id: 65, 
             nome: "15 - ENGENHARIA DADOS: Fundamentos", 
-            color: colors.blueLight,
+            color: colors.yellow,
             desc: "Introduz os fundamentos da ciência de dados, capacitando o colaborador a trabalhar com análise e interpretação de grandes volumes de dados."
         },
 
@@ -1698,6 +1698,7 @@ const config = {
     ]
 
 };
+
 
 
 
