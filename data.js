@@ -18,6 +18,37 @@ const config = {
     // TREINAMENTOS: Catálogo de Cursos (IDs fixos)
     treinamentos: [
         { 
+            id: 60, 
+            nome: "00 - EDUCAÇÃO: Ensino Médio", 
+            color: colors.blueLight,
+            desc: "Fornece a base educacional necessária para compreender conceitos fundamentais e desenvolver as habilidades básicas exigidas pelo mercado."
+        },
+        { 
+            id: 61, 
+            nome: "00 - EDUCAÇÃO: Ensino Sup./Tec.", 
+            color: colors.blueLight,
+            desc: "Capacita o colaborador com conhecimentos avançados em sua área de atuação, preparando-o para desempenhar funções técnicas ou gerenciais."
+        },
+        { 
+            id: 62, 
+            nome: "00 - EDUCAÇÃO: Inglês - Técnico", 
+            color: colors.blueLight,
+            desc: "Ensina o inglês técnico necessário para a compreensão de termos e documentos, permitindo uma comunicação eficiente em ambientes de tecnologia."
+        },
+        { 
+            id: 63, 
+            nome: "00 - EDUCAÇÃO: MBA", 
+            color: colors.blueLight,
+            desc: "Desenvolve habilidades estratégicas e gerenciais, preparando o colaborador para assumir cargos de liderança e tomar decisões de negócios com embasamento."
+        },
+        { 
+            id: 64, 
+            nome: "00 - EDUCAÇÃO: Pós-graduação", 
+            color: colors.blueLight,
+            desc: "Capacita o colaborador com conhecimento especializado, promovendo o crescimento em sua área de atuação e aprimorando suas habilidades técnicas ou de gestão."
+        },
+
+        { 
             id: 1, 
             nome: "01 - ONBOARDING: Programas Edesoft", 
             color: colors.purple,
@@ -367,36 +398,9 @@ const config = {
             color: colors.black,
             desc: "Ensina os princípios da LGPD, preparando o colaborador para lidar com dados pessoais de forma segura e conforme a legislação vigente."
         },
-        { 
-            id: 60, 
-            nome: "14 - EDUCAÇÃO: Ensino Médio", 
-            color: colors.blueLight,
-            desc: "Fornece a base educacional necessária para compreender conceitos fundamentais e desenvolver as habilidades básicas exigidas pelo mercado."
-        },
-        { 
-            id: 61, 
-            nome: "14 - EDUCAÇÃO: Ensino Sup./Tec.", 
-            color: colors.blueLight,
-            desc: "Capacita o colaborador com conhecimentos avançados em sua área de atuação, preparando-o para desempenhar funções técnicas ou gerenciais."
-        },
-        { 
-            id: 62, 
-            nome: "14 - EDUCAÇÃO: Inglês - Técnico", 
-            color: colors.blueLight,
-            desc: "Ensina o inglês técnico necessário para a compreensão de termos e documentos, permitindo uma comunicação eficiente em ambientes de tecnologia."
-        },
-        { 
-            id: 63, 
-            nome: "14 - EDUCAÇÃO: MBA", 
-            color: colors.blueLight,
-            desc: "Desenvolve habilidades estratégicas e gerenciais, preparando o colaborador para assumir cargos de liderança e tomar decisões de negócios com embasamento."
-        },
-        { 
-            id: 64, 
-            nome: "14 - EDUCAÇÃO: Pós-graduação", 
-            color: colors.blueLight,
-            desc: "Capacita o colaborador com conhecimento especializado, promovendo o crescimento em sua área de atuação e aprimorando suas habilidades técnicas ou de gestão."
-        },
+,
+
+		
         { 
             id: 65, 
             nome: "15 - ENGENHARIA DADOS: Fundamentos", 
@@ -1696,6 +1700,7 @@ const config = {
     ]
 
 };
+
 
 
 
