@@ -567,7 +567,7 @@ const config = {
         },
         { 
             id: 96, 
-            nome: "18 - DESENVOLVIMENTO: LOGICA E ALGORITIMOS", 
+            nome: "18 - DESENVOLVIMENTO: LÓGICA", 
             color: colors.blueLight,
             desc: "Capacita o colaborador a entender lógica de programação e algoritmos, essenciais para resolver problemas complexos."
         },
@@ -1734,6 +1734,7 @@ const config = {
     ]
 
 };
+
 
 
 
