@@ -105,7 +105,7 @@ const config = {
         },
         { 
             id: 19, 
-            nome: "04 - QA: Fundamentos da Gestão da Qualidade", 
+            nome: "04 - QA: Fund. da Gestão da Qualidade", 
             color: colors.green,
             desc: "Ensina os fundamentos da gestão da qualidade, capacitando o colaborador a implementar e gerenciar processos de qualidade nos projetos."
         },
@@ -389,7 +389,7 @@ const config = {
         },
         { 
             id: 61, 
-            nome: "14 - EDUCAÇÃO: Ensino Superior ou Tecnólogo", 
+            nome: "14 - EDUCAÇÃO: Ensino Sup./Tec.", 
             color: colors.blueLight,
             desc: "Capacita o colaborador com conhecimentos avançados em sua área de atuação, preparando-o para desempenhar funções técnicas ou gerenciais."
         },
@@ -1734,6 +1734,7 @@ const config = {
     ]
 
 };
+
 
 
 
