@@ -104,7 +104,7 @@ const config = {
         },
         { 
             id: 19, 
-            nome: "QA: Fundamentos da Gestão da Qualidade", 
+            nome: "04 - QA: Fundamentos da Gestão da Qualidade", 
             color: colors.green,
             desc: "Ensina os fundamentos da gestão da qualidade, capacitando o colaborador a implementar e gerenciar processos de qualidade nos projetos."
         },
@@ -1741,6 +1741,7 @@ const config = {
     ]
 
 };
+
 
 
 
