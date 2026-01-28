@@ -61,6 +61,8 @@ const config = {
             color: colors.orange,
             desc: "Ensina sobre o gerenciamento logístico no transporte rodoviário, otimizando o fluxo de mercadorias e o desempenho das operações."
         },
+
+		
         { 
             id: 14, 
             nome: "04 - QA: Custos da não qualidade", 
@@ -74,16 +76,10 @@ const config = {
             desc: "Ensina o ciclo completo de qualidade, garantindo que o colaborador acompanhe e assegure a qualidade do produto desde o início até a entrega final."
         },
         { 
-            id: 16, 
-            nome: "04 - QA: Fundamentos em Testes", 
+            id: 99, 
+            nome: "04 - QA: Analista de Testes x Analista QA", 
             color: colors.green,
-            desc: "Apresenta os conceitos básicos de testes de software, capacitando o colaborador a identificar e corrigir defeitos nos produtos desenvolvidos."
-        },
-        { 
-            id: 17, 
-            nome: "04 - QA: Ferramentas da Qualidade", 
-            color: colors.green,
-            desc: "Capacita o colaborador a utilizar ferramentas específicas de QA para automatizar e melhorar o processo de controle de qualidade."
+            desc: "Compara responsabilidades do testador e do analista de qualidade, mostrando como atuam juntos para garantir software confiável."
         },
         { 
             id: 18, 
@@ -92,11 +88,11 @@ const config = {
             desc: "Introduz a carreira de QA, explicando os papéis e responsabilidades, ajudando o colaborador a se orientar e se destacar na área."
         },
         { 
-            id: 19, 
-            nome: "04 - QA: Fund. da Gestão da Qualidade", 
+            id: 16, 
+            nome: "04 - QA: Introdução ao Teste de Software", 
             color: colors.green,
-            desc: "Ensina os fundamentos da gestão da qualidade, capacitando o colaborador a implementar e gerenciar processos de qualidade nos projetos."
-        },
+            desc: "Apresenta os conceitos básicos de testes de software, capacitando o colaborador a identificar e corrigir defeitos nos produtos desenvolvidos."
+        },		
         { 
             id: 20, 
             nome: "04 - QA: Robot Framework - Fundamentos", 
@@ -115,18 +111,20 @@ const config = {
             color: colors.green,
             desc: "Capacita o colaborador a realizar testes automatizados de APIs utilizando o Robot Framework, melhorando a cobertura e eficiência dos testes."
         },
+		 { 
+            id: 17, 
+            nome: "04 - QA: Ferramentas da Qualidade", 
+            color: colors.green,
+            desc: "Capacita o colaborador a utilizar ferramentas específicas de QA para automatizar e melhorar o processo de controle de qualidade."
+        },
         { 
             id: 23, 
             nome: "04 - QA: Engenharia de Requisitos", 
             color: colors.green,
             desc: "Explora os conceitos de engenharia de requisitos, preparando o colaborador para coletar e documentar necessidades de clientes de forma eficaz."
         },
-        { 
-            id: 24, 
-            nome: "04 - QA: OKR - Objectives and Key Results", 
-            color: colors.green,
-            desc: "Introduz o framework OKR, capacitando o colaborador a definir e acompanhar metas e resultados-chave alinhados com os objetivos estratégicos."
-        },
+
+		
         { 
             id: 25, 
             nome: "05 - FERRAMENTAS: Azure DevOps", 
