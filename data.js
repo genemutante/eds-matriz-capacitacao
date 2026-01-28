@@ -78,8 +78,6 @@ const config = {
             desc: "Introduz conceitos básicos de programação, ajudando o colaborador a desenvolver raciocínio lógico para resolver problemas técnicos."
         },
         { 
-
-        { 
             id: 13, 
             nome: "PROCESSOS: Mapeamento de Processos", 
             color: colors.blueLight,
@@ -1740,3 +1738,4 @@ const config = {
     ]
 
 };
+
