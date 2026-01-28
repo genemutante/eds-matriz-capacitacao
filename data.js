@@ -56,12 +56,6 @@ const config = {
         },
 		
         { 
-            id: 7, 
-            nome: "03 - OUTSOURCING: Service Desk", 
-            color: colors.orange,
-            desc: "Aborda técnicas e ferramentas para atendimento e suporte ao cliente, ajudando a melhorar o serviço e a satisfação dos usuários."
-        },
-        { 
             id: 8, 
             nome: "03 - OUTSOURCING: Framework Scrum", 
             color: colors.orange,
@@ -217,6 +211,14 @@ const config = {
             color: colors.black,
             desc: "Ensina o uso do Trello para organização e gerenciamento de tarefas, facilitando a colaboração e o acompanhamento de projetos."
         },
+
+        { 
+            id: 7, 
+            nome: "06 - GOVERNANÇA: Service Desk", 
+            color: colors.red,
+            desc: "Aborda técnicas e ferramentas para atendimento e suporte ao cliente, ajudando a melhorar o serviço e a satisfação dos usuários."
+        },
+		
         { 
             id: 37, 
             nome: "06 - GOVERNANÇA: Governança de TI", 
@@ -1739,6 +1741,7 @@ const config = {
     ]
 
 };
+
 
 
 
