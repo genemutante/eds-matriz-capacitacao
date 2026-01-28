@@ -405,31 +405,7 @@ const config = {
             color: colors.blueLight,
             desc: "Introduz os fundamentos da ciência de dados, capacitando o colaborador a trabalhar com análise e interpretação de grandes volumes de dados."
         },
-        { 
-            id: 66, 
-            nome: "16 - GOVERNANÇA: SERVICE DESK", 
-            color: colors.red,
-            desc: "Ensina como gerenciar uma central de serviços de TI, focando no atendimento eficiente e solução de problemas técnicos."
-        },
 
-        { 
-            id: 73, 
-            nome: "16 - GOVERNANÇA: Gestão Ágil com SCRUM", 
-            color: colors.red,
-            desc: "Ensina o uso do Scrum para gestão ágil de projetos, capacitando o colaborador a integrar times ágeis e entregar valor continuamente."
-        },
-        { 
-            id: 74, 
-            nome: "16 - GOVERNANÇA: AgileSHIFT", 
-            color: colors.red,
-            desc: "Capacita o colaborador a navegar pelas mudanças organizacionais e adotar práticas ágeis com o framework AgileSHIFT."
-        },
-        { 
-            id: 75, 
-            nome: "16 - GOVERNANÇA: Fundamentos de Projetos", 
-            color: colors.red,
-            desc: "Ensina os conceitos básicos de gestão de projetos, capacitando o colaborador a planejar, executar e monitorar projetos com sucesso."
-        },
 
         { 
             id: 13, 
@@ -1722,6 +1698,7 @@ const config = {
     ]
 
 };
+
 
 
 
