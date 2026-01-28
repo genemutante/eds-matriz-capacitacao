@@ -268,13 +268,6 @@ const config = {
             color: colors.red,
             desc: "Ensina a importância da família ISO 42000, preparando o colaborador para governança de IA."
         },
-        { 
-            id: 41, 
-            nome: "06 - GOVERNANÇA: AgileShift", 
-            color: colors.red,
-            desc: "Introduz o framework AgileShift, ensinando como gerenciar transformações ágeis em toda a organização."
-        },
-
 
 		
         { 
@@ -1741,6 +1734,7 @@ const config = {
     ]
 
 };
+
 
 
 
