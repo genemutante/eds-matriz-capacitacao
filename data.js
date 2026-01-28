@@ -296,417 +296,417 @@ const config = {
         },
         { 
             id: 51, 
-            nome: "GESTÃO: Departamento Pessoal", 
+            nome: "11 - GESTÃO: Departamento Pessoal", 
             color: colors.gold,
             desc: "Fornece as habilidades necessárias para lidar com processos de administração de pessoal, assegurando a conformidade com as políticas e o bom funcionamento da área de RH."
         },
         { 
             id: 52, 
-            nome: "GESTÃO: Financeira", 
+            nome: "11 - GESTÃO: Financeira", 
             color: colors.gold,
             desc: "Ensina conceitos e práticas de gestão financeira, capacitando o colaborador a tomar decisões estratégicas e otimizar os recursos financeiros da organização."
         },
         { 
             id: 53, 
-            nome: "GESTÃO: Pessoas", 
+            nome: "11 - GESTÃO: Pessoas", 
             color: colors.gold,
             desc: "Desenvolve habilidades de liderança e gestão de pessoas, ajudando o colaborador a gerenciar equipes com eficiência e promover um ambiente de trabalho colaborativo."
         },
         { 
             id: 54, 
-            nome: "GESTÃO: Processos", 
+            nome: "11 - GESTÃO: Processos", 
             color: colors.gold,
             desc: "Capacita o colaborador a mapear, documentar e otimizar processos internos, melhorando a eficiência e alinhando as operações aos objetivos estratégicos."
         },
         { 
             id: 55, 
-            nome: "GESTÃO: Projetos", 
+            nome: "11 - GESTÃO: Projetos", 
             color: colors.gold,
             desc: "Ensina metodologias e práticas de gestão de projetos, capacitando o colaborador a planejar, executar e monitorar projetos de forma eficaz."
         },
         { 
             id: 56, 
-            nome: "RH: Administração de Cargos e Salários", 
+            nome: "12 - RH: Administração de Cargos e Salários", 
             color: colors.purple,
             desc: "Capacita o colaborador a administrar planos de cargos e salários, garantindo uma estrutura salarial justa e alinhada às práticas de mercado."
         },
         { 
             id: 57, 
-            nome: "RH: Recrutamento e Seleção", 
+            nome: "12 - RH: Recrutamento e Seleção", 
             color: colors.purple,
             desc: "Ensina técnicas de recrutamento e seleção, ajudando o colaborador a identificar e contratar talentos que se alinhem às necessidades da empresa."
         },
         { 
             id: 58, 
-            nome: "LEGISLAÇÃO: Leis Trabalhistas", 
+            nome: "13 - LEGISLAÇÃO: Leis Trabalhistas", 
             color: colors.black,
             desc: "Capacita o colaborador a entender e aplicar as leis trabalhistas, assegurando a conformidade com a legislação e a proteção dos direitos dos trabalhadores."
         },
         { 
             id: 59, 
-            nome: "LEGISLAÇÃO: LGPD", 
+            nome: "13 - LEGISLAÇÃO: LGPD", 
             color: colors.black,
             desc: "Ensina os princípios da LGPD, preparando o colaborador para lidar com dados pessoais de forma segura e conforme a legislação vigente."
         },
         { 
             id: 60, 
-            nome: "EDUCAÇÃO: Ensino Médio", 
+            nome: "14 - EDUCAÇÃO: Ensino Médio", 
             color: colors.blueLight,
             desc: "Fornece a base educacional necessária para compreender conceitos fundamentais e desenvolver as habilidades básicas exigidas pelo mercado."
         },
         { 
             id: 61, 
-            nome: "EDUCAÇÃO: Ensino Superior ou Tecnólogo", 
+            nome: "14 - EDUCAÇÃO: Ensino Superior ou Tecnólogo", 
             color: colors.blueLight,
             desc: "Capacita o colaborador com conhecimentos avançados em sua área de atuação, preparando-o para desempenhar funções técnicas ou gerenciais."
         },
         { 
             id: 62, 
-            nome: "EDUCAÇÃO: Inglês - Técnico", 
+            nome: "14 - EDUCAÇÃO: Inglês - Técnico", 
             color: colors.blueLight,
             desc: "Ensina o inglês técnico necessário para a compreensão de termos e documentos, permitindo uma comunicação eficiente em ambientes de tecnologia."
         },
         { 
             id: 63, 
-            nome: "EDUCAÇÃO: MBA", 
+            nome: "14 - EDUCAÇÃO: MBA", 
             color: colors.blueLight,
             desc: "Desenvolve habilidades estratégicas e gerenciais, preparando o colaborador para assumir cargos de liderança e tomar decisões de negócios com embasamento."
         },
         { 
             id: 64, 
-            nome: "EDUCAÇÃO: Pós-graduação", 
+            nome: "14 - EDUCAÇÃO: Pós-graduação", 
             color: colors.blueLight,
             desc: "Capacita o colaborador com conhecimento especializado, promovendo o crescimento em sua área de atuação e aprimorando suas habilidades técnicas ou de gestão."
         },
         { 
             id: 65, 
-            nome: "ENGENHARIA DADOS: Fundamentos", 
+            nome: "15 - ENGENHARIA DADOS: Fundamentos", 
             color: colors.blueLight,
             desc: "Introduz os fundamentos da ciência de dados, capacitando o colaborador a trabalhar com análise e interpretação de grandes volumes de dados."
         },
         { 
             id: 66, 
-            nome: "Gestão de Times: SERVICE DESK", 
+            nome: "16 - GESTÃO DE TIMES: SERVICE DESK", 
             color: colors.red,
             desc: "Ensina como gerenciar uma central de serviços de TI, focando no atendimento eficiente e solução de problemas técnicos."
         },
         { 
             id: 67, 
-            nome: "Gestão de Times: ITIL - Overview", 
+            nome: "16 - GESTÃO DE TIMES: ITIL - Overview", 
             color: colors.red,
             desc: "Fornece uma visão geral do ITIL, apresentando os principais conceitos e práticas para a gestão de serviços de TI."
         },
         { 
             id: 68, 
-            nome: "Gestão de Times: ITIL - Carreiras", 
+            nome: "16 - GESTÃO DE TIMES: ITIL - Carreiras", 
             color: colors.red,
             desc: "Capacita o colaborador a explorar as diferentes carreiras disponíveis no ITIL, auxiliando na definição de trajetórias profissionais."
         },
         { 
             id: 69, 
-            nome: "Gestão de Times: ITIL 4", 
+            nome: "16 - GESTÃO DE TIMES: ITIL 4", 
             color: colors.red,
             desc: "Ensina os fundamentos do ITIL 4, preparando o colaborador para aplicar boas práticas de gerenciamento de serviços de TI."
         },
         { 
             id: 70, 
-            nome: "Gestão de Times: COBIT 2019", 
+            nome: "16 - GESTÃO DE TIMES: COBIT 2019", 
             color: colors.red,
             desc: "Apresenta o framework COBIT 2019, capacitando o colaborador a gerenciar e governar a TI dentro das organizações."
         },
         { 
             id: 71, 
-            nome: "Gestão de Times: FAMÍLIA ISO 20000", 
+            nome: "16 - GESTÃO DE TIMES: FAMÍLIA ISO 20000", 
             color: colors.red,
             desc: "Capacita o colaborador a entender e aplicar as normas da família ISO 20000 para gerenciamento de serviços de TI."
         },
         { 
             id: 72, 
-            nome: "Gestão de Times: FAMÍLIA ISO 27000", 
+            nome: "16 - GESTÃO DE TIMES: FAMÍLIA ISO 27000", 
             color: colors.red,
             desc: "Ensina a importância da conformidade com as normas da família ISO 27000, preparando o colaborador para garantir a segurança da informação."
         },
         { 
             id: 73, 
-            nome: "Gestão de Times: Gestão Ágil com SCRUM", 
+            nome: "16 - GESTÃO DE TIMES: Gestão Ágil com SCRUM", 
             color: colors.red,
             desc: "Ensina o uso do Scrum para gestão ágil de projetos, capacitando o colaborador a integrar times ágeis e entregar valor continuamente."
         },
         { 
             id: 74, 
-            nome: "Gestão de Times: AgileSHIFT", 
+            nome: "16 - GESTÃO DE TIMES: AgileSHIFT", 
             color: colors.red,
             desc: "Capacita o colaborador a navegar pelas mudanças organizacionais e adotar práticas ágeis com o framework AgileSHIFT."
         },
         { 
             id: 75, 
-            nome: "Gestão de Times: Fundamentos de Projetos", 
+            nome: "16 - GESTÃO DE TIMES: Fundamentos de Projetos", 
             color: colors.red,
             desc: "Ensina os conceitos básicos de gestão de projetos, capacitando o colaborador a planejar, executar e monitorar projetos com sucesso."
         },
         { 
             id: 76, 
-            nome: "Gestão de Times: Metodologia DISC", 
+            nome: "16 - GESTÃO DE TIMES: Metodologia DISC", 
             color: colors.red,
             desc: "Ensina a metodologia DISC, ajudando o colaborador a entender perfis comportamentais para melhorar a comunicação e a gestão de equipes."
         },
         { 
             id: 13, 
-            nome: "PROCESSOS: Mapeamento de Processos", 
+            nome: "17 - PROCESSOS: Mapeamento de Processos", 
             color: colors.cyan,
             desc: "Capacita o colaborador a mapear e modelar processos, promovendo uma visão clara dos fluxos de trabalho e suas melhorias."
         },
         { 
             id: 77, 
-            nome: "PROCESSOS: Bizagi Modeler", 
+            nome: "17 - PROCESSOS: Bizagi Modeler", 
             color: colors.cyan,
             desc: "Ensina o uso do Bizagi Modeler para modelagem de processos de negócios, otimizando fluxos de trabalho."
         },
         { 
             id: 78, 
-            nome: "PROCESSOS: Estatística Básica", 
+            nome: "17 - PROCESSOS: Estatística Básica", 
             color: colors.cyan,
             desc: "Capacita o colaborador a compreender conceitos básicos de estatística, aplicando-os na análise de dados para melhoria contínua."
         },
         { 
             id: 79, 
-            nome: "PROCESSOS: Introdução ao Lean", 
+            nome: "17 - PROCESSOS: Introdução ao Lean", 
             color: colors.cyan,
             desc: "Introduz os princípios do Lean, capacitando o colaborador a eliminar desperdícios e aumentar a eficiência nos processos."
         },
         { 
             id: 80, 
-            nome: "PROCESSOS: KAIZEN", 
+            nome: "17 - PROCESSOS: KAIZEN", 
             color: colors.cyan,
             desc: "Apresenta a metodologia Kaizen, ensinando o colaborador a implementar melhorias contínuas em processos de trabalho."
         },
         { 
             id: 81, 
-            nome: "PROCESSOS: KPI", 
+            nome: "17 - PROCESSOS: KPI", 
             color: colors.cyan,
             desc: "Ensina como definir e medir indicadores de desempenho (KPIs), fundamentais para monitorar e otimizar a performance organizacional."
         },
         { 
             id: 82, 
-            nome: "PROCESSOS: Lean White Belt", 
+            nome: "17 - PROCESSOS: Lean White Belt", 
             color: colors.cyan,
             desc: "Introduz os fundamentos do Lean Seis Sigma White Belt, capacitando o colaborador a apoiar iniciativas de melhoria de qualidade."
         },
         { 
             id: 83, 
-            nome: "PROCESSOS: Lean Yellow Belt", 
+            nome: "17 - PROCESSOS: Lean Yellow Belt", 
             color: colors.cyan,
             desc: "Ensina os conceitos do Lean Seis Sigma Yellow Belt, preparando o colaborador para liderar pequenas melhorias em processos."
         },
         { 
             id: 85, 
-            nome: "PROCESSOS: MASP & PDCA", 
+            nome: "17 - PROCESSOS: MASP & PDCA", 
             color: colors.cyan,
             desc: "Apresenta as metodologias MASP e PDCA para resolução de problemas e melhoria contínua, garantindo processos mais eficientes."
         },
         { 
             id: 86, 
-            nome: "TI - DESENVOLVIMENTO: API", 
+            nome: "18 - DESENVOLVIMENTO: API", 
             color: colors.blueLight,
             desc: "Ensina a criação e consumo de APIs, capacitando o colaborador a desenvolver integrações eficientes entre sistemas."
         },
         { 
             id: 87, 
-            nome: "TI - DESENVOLVIMENTO: AWS", 
+            nome: "18 - DESENVOLVIMENTO: AWS", 
             color: colors.blueLight,
             desc: "Capacita o colaborador a utilizar a AWS para desenvolver, implantar e gerenciar soluções na nuvem."
         },
 
         { 
             id: 88, 
-            nome: "TI - DESENVOLVIMENTO: CLOUD", 
+            nome: "18 - DESENVOLVIMENTO: CLOUD", 
             color: colors.blueLight,
             desc: "Introduz os conceitos de computação em nuvem, capacitando o colaborador a trabalhar com infraestrutura e serviços escaláveis."
         },
         { 
             id: 11, 
-            nome: "TI - DESENVOLVIMENTO: AZURE DEVOPS", 
+            nome: "18 - DESENVOLVIMENTO: AZURE DEVOPS", 
             color: colors.blueLight,
             desc: "Capacita o colaborador a usar o Azure DevOps para planejar, automatizar e entregar software com CI/CD."
         },
 	
         { 
             id: 89, 
-            nome: "TI - DESENVOLVIMENTO: DJANGO", 
+            nome: "18 - DESENVOLVIMENTO: DJANGO", 
             color: colors.blueLight,
             desc: "Ensina o uso do Django para desenvolvimento web em Python, capacitando o colaborador a criar aplicações robustas e escaláveis."
         },
         { 
             id: 90, 
-            nome: "TI - DESENVOLVIMENTO: DOCKER", 
+            nome: "18 - DESENVOLVIMENTO: DOCKER", 
             color: colors.blueLight,
             desc: "Capacita o colaborador a utilizar Docker para criar, implantar e gerenciar containers, facilitando o desenvolvimento e a operação de software."
         },
         { 
             id: 91, 
-            nome: "TI - DESENVOLVIMENTO: FLASK", 
+            nome: "18 - DESENVOLVIMENTO: FLASK", 
             color: colors.blueLight,
             desc: "Ensina o uso do Flask para desenvolvimento de aplicações web leves e rápidas em Python."
         },
         { 
             id: 92, 
-            nome: "TI - DESENVOLVIMENTO: GIT", 
+            nome: "18 - DESENVOLVIMENTO: GIT", 
             color: colors.blueLight,
             desc: "Apresenta o GIT como ferramenta de controle de versão, capacitando o colaborador a colaborar e gerenciar código de forma eficiente."
         },
         { 
             id: 93, 
-            nome: "TI - DESENVOLVIMENTO: HTML", 
+            nome: "18 - DESENVOLVIMENTO: HTML", 
             color: colors.blueLight,
             desc: "Ensina os fundamentos de HTML, capacitando o colaborador a criar e estruturar páginas web."
         },
         { 
             id: 94, 
-            nome: "TI - DESENVOLVIMENTO: CSS", 
+            nome: "18 - DESENVOLVIMENTO: CSS", 
             color: colors.blueLight,
             desc: "Ensina os fundamentos de CSS, capacitando o colaborador a estilizar páginas web e melhorar a experiência do usuário."
         },
         { 
             id: 95, 
-            nome: "TI - DESENVOLVIMENTO: JAVASCRIPT", 
+            nome: "18 - DESENVOLVIMENTO: JAVASCRIPT", 
             color: colors.blueLight,
             desc: "Ensina os fundamentos de JavaScript, capacitando o colaborador a desenvolver aplicações web dinâmicas e interativas."
         },
         { 
             id: 96, 
-            nome: "TI - DESENVOLVIMENTO: LOGICA E ALGORITIMOS", 
+            nome: "18 - DESENVOLVIMENTO: LOGICA E ALGORITIMOS", 
             color: colors.blueLight,
             desc: "Capacita o colaborador a entender lógica de programação e algoritmos, essenciais para resolver problemas complexos."
         },
         { 
             id: 97, 
-            nome: "TI - DESENVOLVIMENTO: MENSAGERIA", 
+            nome: "18 - DESENVOLVIMENTO: MENSAGERIA", 
             color: colors.blueLight,
             desc: "Ensina os conceitos de mensageria, capacitando o colaborador a implementar sistemas de comunicação assíncrona entre serviços."
         },
         { 
             id: 98, 
-            nome: "TI - DESENVOLVIMENTO: MOBX", 
+            nome: "18 - DESENVOLVIMENTO: MOBX", 
             color: colors.blueLight,
             desc: "Apresenta o MOBX como uma biblioteca de gerenciamento de estado, capacitando o colaborador a criar aplicações web escaláveis."
         },
         { 
             id: 99, 
-            nome: "TI - DESENVOLVIMENTO: NODEJS", 
+            nome: "18 - DESENVOLVIMENTO: NODEJS", 
             color: colors.blueLight,
             desc: "Ensina o uso do Node.js para desenvolvimento de aplicações server-side, capacitando o colaborador a construir sistemas rápidos e escaláveis."
         },
         { 
             id: 100, 
-            nome: "TI - DESENVOLVIMENTO: ORM", 
+            nome: "18 - DESENVOLVIMENTO: ORM", 
             color: colors.blueLight,
             desc: "Capacita o colaborador a utilizar ORMs para simplificar a interação com bancos de dados relacionais em linguagens de programação."
         },
         { 
             id: 101, 
-            nome: "TI - DESENVOLVIMENTO: POO", 
+            nome: "18 - DESENVOLVIMENTO: POO", 
             color: colors.blueLight,
             desc: "Ensina os conceitos de Programação Orientada a Objetos (POO), capacitando o colaborador a desenvolver soluções mais estruturadas."
         },
         { 
             id: 102, 
-            nome: "TI - DESENVOLVIMENTO: PYTHON", 
+            nome: "18 - DESENVOLVIMENTO: PYTHON", 
             color: colors.blueLight,
             desc: "Capacita o colaborador a utilizar Python para desenvolver scripts e aplicações, otimizando processos e resolvendo problemas complexos."
         },
         { 
             id: 103, 
-            nome: "TI - DESENVOLVIMENTO: REACT", 
+            nome: "18 - DESENVOLVIMENTO: REACT", 
             color: colors.blueLight,
             desc: "Ensina o uso do React para construção de interfaces de usuário dinâmicas e escaláveis em aplicações web."
         },
         { 
             id: 104, 
-            nome: "TI - DESENVOLVIMENTO: REDUX", 
+            nome: "18 - DESENVOLVIMENTO: REDUX", 
             color: colors.blueLight,
             desc: "Capacita o colaborador a utilizar Redux para gerenciar o estado de aplicações React de forma eficiente."
         },
 	    { 
             id: 12, 
-            nome: "TI - DESENVOLVIMENTO: RESTFULL", 
+            nome: "18 - DESENVOLVIMENTO: RESTFULL", 
             color: colors.blueLight,
             desc: "Capacita o colaborador a utilizar APIs RESTful para desenvolver, consumir e integrar serviços, aplicando boas práticas de endpoints, métodos HTTP e padrões de troca de dados."
         },
         { 
             id: 105, 
-            nome: "TI - DESENVOLVIMENTO: ROADMAPS", 
+            nome: "18 - DESENVOLVIMENTO: ROADMAPS", 
             color: colors.blueLight,
             desc: "Apresenta roadmaps de desenvolvimento, capacitando o colaborador a planejar sua evolução técnica em diferentes tecnologias."
         },
         { 
             id: 106, 
-            nome: "TI - DESENVOLVIMENTO: SQL", 
+            nome: "18 - DESENVOLVIMENTO: SQL", 
             color: colors.blueLight,
             desc: "Ensina SQL para gerenciamento e consulta de bancos de dados relacionais, capacitando o colaborador a manipular dados de forma eficiente."
         },
         { 
             id: 107, 
-            nome: "TI - DESENVOLVIMENTO: TYPESCRIPT", 
+            nome: "18 - DESENVOLVIMENTO: TYPESCRIPT", 
             color: colors.blueLight,
             desc: "Capacita o colaborador a utilizar TypeScript para adicionar tipagem estática ao JavaScript, aumentando a segurança e escalabilidade do código."
         },
         { 
             id: 108, 
-            nome: "Automação: Básico de Make", 
+            nome: "19 - AUTOMAÇÃO: Básico de Make", 
             color: colors.grey,
             desc: "Ensina técnicas para criar fluxos de automação eficazes que otimizam processos, capacitando o colaborador a integrar ferramentas de forma eficiente."
         },
         { 
             id: 109, 
-            nome: "Automação: Básico de Manychat", 
+            nome: "19 - AUTOMAÇÃO: Básico de Manychat", 
             color: colors.grey,
             desc: "Capacita o colaborador a criar chatbots e automações de atendimento, melhorando o engajamento e a eficiência na comunicação."
         },
         { 
             id: 110, 
-            nome: "Automação: Básico de n8n", 
+            nome: "19 - AUTOMAÇÃO: Básico de n8n", 
             color: colors.grey,
             desc: "Ensina a utilizar o n8n para criar automações de fluxo de trabalho complexas e integradas, otimizando processos operacionais."
         },
         { 
             id: 111, 
-            nome: "IA: INTELIGÊNCIA ARTIFICIAL - OVERVIEW", 
+            nome: "20 - IA: INTELIGÊNCIA ARTIFICIAL - OVERVIEW", 
             color: colors.yellow,
             desc: "Fornece uma visão geral sobre Inteligência Artificial, seus conceitos fundamentais e impacto nos negócios."
         },
         { 
             id: 112, 
-            nome: "IA: LLMS", 
+            nome: "20 - IA: LLMS", 
             color: colors.yellow,
             desc: "Explora os Grandes Modelos de Linguagem (LLMs), explicando como funcionam e suas aplicações práticas."
         },
         { 
             id: 113, 
-            nome: "IA: ENG. DE PROMPT - FUNDAMENTOS", 
+            nome: "20 - IA: ENG. DE PROMPT - FUNDAMENTOS", 
             color: colors.yellow,
             desc: "Ensina os fundamentos da engenharia de prompt, capacitando o colaborador a interagir de forma eficaz com modelos de IA."
         },
         { 
             id: 114, 
-            nome: "IA: ENG. DE PROMPT - CASOS DE USO", 
+            nome: "20 - IA: ENG. DE PROMPT - CASOS DE USO", 
             color: colors.yellow,
             desc: "Apresenta casos de uso práticos de engenharia de prompt, demonstrando como aplicar a técnica em situações reais."
         },
         { 
             id: 115, 
-            nome: "IA: ENG. DE CONTEXTO - OVERVIEW", 
+            nome: "20 - IA: ENG. DE CONTEXTO - OVERVIEW", 
             color: colors.yellow,
             desc: "Introduz a engenharia de contexto, ensinando como fornecer informações relevantes para melhorar as respostas da IA."
         },
         { 
             id: 116, 
-            nome: "IA: ASSISTENTES DE IA", 
+            nome: "20 - IA: ASSISTENTES DE IA", 
             color: colors.yellow,
             desc: "Capacita o colaborador a criar e utilizar assistentes de IA para automatizar tarefas e aumentar a produtividade."
         },
         { 
             id: 117, 
-            nome: "IA: AGENTES DE IA", 
+            nome: "20 - IA: AGENTES DE IA", 
             color: colors.yellow,
             desc: "Ensina sobre agentes de IA autônomos, explorando como eles podem executar tarefas complexas sem intervenção humana constante."
         }
@@ -980,7 +980,7 @@ const config = {
             // - Controle/Qualidade: KPI (81), CMMI Global (44-47 - Vital para PP/PMC)
             // - Gestão Geral: Pessoas (53), Processos (54)
             // - Compliance: Leis (58), LGPD (59)
-            // - IA: Trilha Completa (111-117 - Automação de PMO)
+            // - IA: Trilha Completa (111-117 19 - AUTOMAÇÃO de PMO)
             obrigatorios: [
                 1, 2, 3, 5, 
                 8, 25, 32, 
@@ -1098,13 +1098,13 @@ const config = {
             corClass: "b-gold",
             // Obrigatórios: 
             // - Básicos: Onboarding (1-3) + Leadership (5) + Office (32)
-            // - Core Service Desk: Outsourcing Service Desk (7), Gestão de Times: Service Desk (66)
+            // - Core Service Desk: Outsourcing Service Desk (7), 16 - GESTÃO DE TIMES: Service Desk (66)
             // - Metodologia ITSM: ITIL 4 Foundation (38), ITIL Overview (67)
             // - Base Técnica: Infraestrutura/Redes (48)
             // - Processo/Controle: KPI (81), CMMI Global (44-47)
             // - Gestão: Pessoas (53), Processos (54 - Gestão de Incidentes/Requisições)
             // - Compliance: Leis (58), LGPD (59 - Dados sensíveis de chamados)
-            // - IA: Trilha Completa (111-117 - Automação de Suporte)
+            // - IA: Trilha Completa (111-117 19 - AUTOMAÇÃO de Suporte)
             obrigatorios: [
                 1, 2, 3, 5, 
                 7, 
@@ -1269,7 +1269,7 @@ const config = {
             // Obrigatórios: 
             // - Básicos: Onboarding (1-3)
             // - Core QA (Conceitos): Custos (14), Qualidade Fim-a-Fim (15), Fundamentos (16), Ferramentas (17), Carreira (18), Gestão Q. (19)
-            // - Automação Core: Robot Framework Fundamentos (20)
+            // 19 - AUTOMAÇÃO Core: Robot Framework Fundamentos (20)
             // - Processo/Ferramenta: Framework Scrum (8), Azure DevOps (25)
             // - CMMI Técnico: Areas de Prática (42), Ciclo de Vida (43)
             // - Compliance: LGPD (59 - Dados de teste anonimizados)
@@ -1285,7 +1285,7 @@ const config = {
                 111, 112, 113, 114, 115, 116, 117
             ],
             // Recomendados: 
-            // - Automação Avançada: Robot Avançado (21), Robot API (22)
+            // 19 - AUTOMAÇÃO Avançada: Robot Avançado (21), Robot API (22)
             // - Técnico: API (86), Lógica (96), SQL (106 - Validação de banco)
             // - Interface com Negócio: Engenharia de Requisitos (23 - BDD/Critérios de Aceite)
             // - Soft Skills: Microbooks (6)
@@ -1355,7 +1355,7 @@ const config = {
             // - Processo de TI: ITIL 4 Foundation (38 - Linguagem padrão de TI)
             // - Cultura: CMMI Global (44-47 - Para entender o ambiente onde a infra roda)
             // - Compliance: Leis (58), LGPD (59 - Segurança da Informação/Acesso Privilegiado)
-            // - IA: Trilha Completa (111-117 - Automação de Ops)
+            // - IA: Trilha Completa (111-117 19 - AUTOMAÇÃO de Ops)
             obrigatorios: [
                 1, 2, 3, 
                 7, 
@@ -1384,7 +1384,7 @@ const config = {
             // - Metodologia: Framework Scrum (8), Fundamentos de Projetos (75), Gestão de Projetos (55 - Contexto)
             // - Controle: KPI (81 - Monitoramento), CMMI Global (44-47 - Conformidade de processo)
             // - Compliance: Leis (58), LGPD (59)
-            // - IA: Trilha Completa (111-117 - Automação de PMO)
+            // - IA: Trilha Completa (111-117 19 - AUTOMAÇÃO de PMO)
             obrigatorios: [
                 1, 2, 3, 
                 8, 25, 32, 
@@ -1509,7 +1509,7 @@ const config = {
             // Recomendados: 
             // - Vendas: Curso de Vendas (50 - Alinhamento Smarketing)
             // - Dados: Power BI (34 - Analytics de campanhas)
-            // - Automação: Manychat (109 - Chatbots de MKT)
+            // 19 -19 -19 -19 - AUTOMAÇÃO: Manychat (109 - Chatbots de MKT)
             // - Web Básico: HTML (93), CSS (94) - Ajustes em Landing Pages
             // - Soft Skills: Microbooks (6)
             recomendados: [6, 34, 50, 93, 94, 109]
@@ -1577,7 +1577,7 @@ const config = {
             // - Core DP/Jurídico: Departamento Pessoal (51), Leis Trabalhistas (58), LGPD (59 - Dados sensíveis/saúde)
             // - Qualidade e Controle: Gestão de Processos (54), KPI (81 - Indicadores de custo/uso)
             // - Contexto: CMMI Global (44-47)
-            // - IA: Trilha Completa (111-117 - Automação de conferências e FAQ)
+            // - IA: Trilha Completa (111-117 19 - AUTOMAÇÃO de conferências e FAQ)
             obrigatorios: [
                 1, 2, 3, 
                 32, 
@@ -1629,7 +1629,7 @@ const config = {
             // - Core: Gestão Financeira (52)
             // - Processos: Gestão de Processos (54), CMMI Global (44-47 - Conformidade e Auditoria)
             // - Compliance: Leis (58), LGPD (59 - Dados bancários e fiscais)
-            // - IA: Trilha Completa (111-117 - Automação de rotinas financeiras)
+            // - IA: Trilha Completa (111-117 19 - AUTOMAÇÃO de rotinas financeiras)
             obrigatorios: [
                 1, 2, 3, 
                 32, 
@@ -1654,7 +1654,7 @@ const config = {
             // - Compliance: LGPD (59 - Tratamento de documentos pessoais)
             // - Organização: Gestão de Processos (54 - Ciclo Mensal de DP)
             // - Contexto: CMMI Global (44-47)
-            // - IA: Trilha Completa (111-117 - Automação de conferência e FAQs)
+            // - IA: Trilha Completa (111-117 19 - AUTOMAÇÃO de conferência e FAQs)
             obrigatorios: [
                 1, 2, 3, 
                 32, 
@@ -1741,6 +1741,7 @@ const config = {
     ]
 
 };
+
 
 
 
