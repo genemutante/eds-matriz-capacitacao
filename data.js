@@ -78,17 +78,7 @@ const config = {
             desc: "Introduz conceitos básicos de programação, ajudando o colaborador a desenvolver raciocínio lógico para resolver problemas técnicos."
         },
         { 
-            id: 11, 
-            nome: "OUTSOURCING: Design de Interfaces", 
-            color: colors.orange,
-            desc: "Explora os princípios de design para a criação de interfaces eficientes e agradáveis, aprimorando a experiência do usuário."
-        },
-        { 
-            id: 12, 
-            nome: "OUTSOURCING: Prog. Orientada a Objetos", 
-            color: colors.orange,
-            desc: "Ensina os fundamentos da Programação Orientada a Objetos, capacitando o colaborador a criar soluções de software mais estruturadas e eficientes."
-        },
+
         { 
             id: 13, 
             nome: "PROCESSOS: Mapeamento de Processos", 
@@ -1748,4 +1738,5 @@ const config = {
             recomendados: [5, 6, 24, 34, 54]
         }
     ]
+
 };
