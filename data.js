@@ -188,7 +188,7 @@ const config = {
         },
         { 
             id: 33, 
-            nome: "FERRAMENTAS DIGITAIS: Photoshop", 
+            nome: "05 - FERRAMENTAS DIGITAIS: Photoshop", 
             color: colors.black,
             desc: "Introduz os fundamentos do Photoshop para edição de imagens, ajudando o colaborador a criar e manipular gráficos de forma profissional."
         },
@@ -1741,6 +1741,7 @@ const config = {
     ]
 
 };
+
 
 
 
