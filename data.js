@@ -35,12 +35,7 @@ const config = {
             color: colors.purple,
             desc: "Ensina sobre a importância da imagem pessoal e profissional, ajudando os colaboradores a se alinharem com os padrões culturais da empresa, refletindo confiança e profissionalismo em sua atuação."
         },
-        { 
-            id: 4, 
-            nome: "ÁREAS: Microcursos intra-áreas", 
-            color: colors.gold,
-            desc: "Oferece treinamentos rápidos e específicos dentro de cada área da empresa, promovendo o aprimoramento contínuo e o compartilhamento de conhecimento entre os membros da área."
-        },
+
         { 
             id: 5, 
             nome: "DESENV. PESSOAL: Leadership", 
@@ -1752,6 +1747,7 @@ const config = {
     ]
 
 };
+
 
 
 
