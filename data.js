@@ -453,8 +453,8 @@ const config = {
         { 
             id: 13, 
             nome: "PROCESSOS: Mapeamento de Processos", 
-            color: colors.blueLight,
-            desc: "Capacita o colaborador a identificar, documentar e otimizar os processos internos, garantindo maior eficiência e alinhamento com os objetivos estratégicos da empresa e dos clientes."
+            color: colors.cyan,
+            desc: "Capacita o colaborador a mapear e modelar processos, promovendo uma visão clara dos fluxos de trabalho e suas melhorias."
         },
         { 
             id: 77, 
@@ -497,12 +497,6 @@ const config = {
             nome: "PROCESSOS: Lean Yellow Belt", 
             color: colors.cyan,
             desc: "Ensina os conceitos do Lean Seis Sigma Yellow Belt, preparando o colaborador para liderar pequenas melhorias em processos."
-        },
-        { 
-            id: 84, 
-            nome: "PROCESSOS: Map. de Processos", 
-            color: colors.cyan,
-            desc: "Capacita o colaborador a mapear e modelar processos, promovendo uma visão clara dos fluxos de trabalho e suas melhorias."
         },
         { 
             id: 85, 
@@ -1747,6 +1741,7 @@ const config = {
     ]
 
 };
+
 
 
 
