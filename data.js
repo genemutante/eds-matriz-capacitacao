@@ -56,12 +56,6 @@ const config = {
         },
 		
         { 
-            id: 8, 
-            nome: "03 - OUTSOURCING: Framework Scrum", 
-            color: colors.orange,
-            desc: "Apresenta o framework Scrum, detalhando suas práticas e como implementá-las para melhorar a gestão de projetos ágeis."
-        },
-        { 
             id: 9, 
             nome: "03 - OUTSOURCING: Logística Rodoviária", 
             color: colors.orange,
@@ -1728,6 +1722,7 @@ const config = {
     ]
 
 };
+
 
 
 
