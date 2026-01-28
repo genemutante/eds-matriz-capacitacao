@@ -170,7 +170,7 @@ const config = {
         },
         { 
             id: 30, 
-            nome: "FERRAMENTAS DIGITAIS: GIT", 
+            nome: "05 - FERRAMENTAS DIGITAIS: GIT", 
             color: colors.black,
             desc: "Ensina os conceitos e o uso do GIT para controle de versão, fundamental para equipes de desenvolvimento."
         },
@@ -1741,6 +1741,7 @@ const config = {
     ]
 
 };
+
 
 
 
