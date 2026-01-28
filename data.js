@@ -212,85 +212,85 @@ const config = {
         },
         { 
             id: 37, 
-            nome: "GESTÃO DE TI: Governança de TI", 
+            nome: "06 - GESTÃO DE TI: Governança de TI", 
             color: colors.blueDark,
             desc: "Capacita o colaborador a implementar e gerenciar estruturas de governança de TI, alinhando a tecnologia aos objetivos do negócio."
         },
         { 
             id: 38, 
-            nome: "GESTÃO DE TI: ITIL 4 Foundation", 
+            nome: "06 - GESTÃO DE TI: ITIL 4 Foundation", 
             color: colors.blueDark,
             desc: "Ensina os fundamentos do ITIL 4, preparando o colaborador para aplicar boas práticas de gerenciamento de serviços de TI."
         },
         { 
             id: 39, 
-            nome: "GESTÃO DE TI: COBIT 2019", 
+            nome: "06 - GESTÃO DE TI: COBIT 2019", 
             color: colors.blueDark,
             desc: "Apresenta o framework COBIT 2019, capacitando o colaborador a gerenciar e governar a TI dentro das organizações."
         },
         { 
             id: 40, 
-            nome: "GESTÃO DE TI: ISO 20000 / 27001 / 42001", 
+            nome: "06 - GESTÃO DE TI: ISO 20000 / 27001 / 42001", 
             color: colors.blueDark,
             desc: "Capacita o colaborador a entender e aplicar as principais normas ISO em TI, garantindo conformidade e segurança da informação."
         },
         { 
             id: 41, 
-            nome: "GESTÃO DE TI: AgileShift", 
+            nome: "06 - GESTÃO DE TI: AgileShift", 
             color: colors.blueDark,
             desc: "Introduz o framework AgileShift, ensinando como gerenciar transformações ágeis em toda a organização."
         },
         { 
             id: 42, 
-            nome: "CMMI TEC: Areas de Prática do Modelo", 
+            nome: "07 - CMMI TEC: Areas de Prática do Modelo", 
             color: colors.grey,
             desc: "Capacita o colaborador a entender e aplicar as áreas de prática do modelo CMMI, alinhando processos a padrões de qualidade."
         },
         { 
             id: 43, 
-            nome: "CMMI TEC: Ciclo de Vida de Desenv.", 
+            nome: "07 - CMMI TEC: Ciclo de Vida de Desenv.", 
             color: colors.grey,
             desc: "Ensina o ciclo de vida de desenvolvimento conforme o CMMI, ajudando o colaborador a implementar melhorias contínuas em projetos."
         },
         { 
             id: 44, 
-            nome: "CMMI GLOBAL: Funções do Grupo EPG", 
+            nome: "07 - CMMI GLOBAL: Funções do Grupo EPG", 
             color: colors.grey,
             desc: "Explora as funções do Grupo EPG, detalhando o papel desse grupo na implementação e manutenção do modelo CMMI na organização."
         },
         { 
             id: 45, 
-            nome: "CMMI GLOBAL: Imersão no Modelo", 
+            nome: "07 - CMMI GLOBAL: Imersão no Modelo", 
             color: colors.grey,
             desc: "Oferece uma imersão no modelo CMMI, capacitando o colaborador a entender profundamente suas práticas e benefícios."
         },
         { 
             id: 46, 
-            nome: "CMMI GLOBAL: Plano de Melhorias", 
+            nome: "07 - CMMI GLOBAL: Plano de Melhorias", 
             color: colors.grey,
             desc: "Apresenta o plano de melhorias da Edesoft, baseado no modelo CMMI, mostrando como a empresa promove a evolução contínua de seus processos."
         },
         { 
             id: 47, 
-            nome: "CMMI GLOBAL: Rotinas Organizacionais", 
+            nome: "07 - CMMI GLOBAL: Rotinas Organizacionais", 
             color: colors.grey,
             desc: "Ensina as rotinas organizacionais conforme o CMMI, capacitando o colaborador a alinhar as práticas diárias aos objetivos de qualidade."
         },
         { 
             id: 48, 
-            nome: "INFRAESTRUTURA: Hardware/Redes", 
+            nome: "08 - INFRAESTRUTURA: Hardware/Redes", 
             color: colors.green,
             desc: "Capacita o colaborador a entender a configuração e manutenção de hardware e redes, garantindo a estabilidade e o bom funcionamento da infraestrutura de TI."
         },
         { 
             id: 49, 
-            nome: "MARKETING: Mídias Sociais", 
+            nome: "09 - MARKETING: Mídias Sociais", 
             color: colors.blueDark,
             desc: "Ensina estratégias e ferramentas para gerenciar redes sociais, ajudando o colaborador a melhorar a presença online e aumentar o engajamento digital da empresa."
         },
         { 
             id: 50, 
-            nome: "COMERCIAL: Curso de Vendas", 
+            nome: "10 - COMERCIAL: Curso de Vendas", 
             color: colors.red,
             desc: "Foca em técnicas de vendas, preparando o colaborador para interagir com clientes de forma assertiva, contribuindo para o aumento de receitas e expansão da base de clientes."
         },
@@ -1741,6 +1741,7 @@ const config = {
     ]
 
 };
+
 
 
 
