@@ -670,7 +670,7 @@ const config = {
         },
         { 
             id: 111, 
-            nome: "20 - IA: INTELIGÊNCIA ARTIFICIAL - OVERVIEW", 
+            nome: "20 - IA: Overview", 
             color: colors.yellow,
             desc: "Fornece uma visão geral sobre Inteligência Artificial, seus conceitos fundamentais e impacto nos negócios."
         },
@@ -1741,6 +1741,7 @@ const config = {
     ]
 
 };
+
 
 
 
