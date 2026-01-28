@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Matriz de Capacitação - v1.2</title>
+    
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header class="page-header">
+    <h1>Matriz de Capacitação</h1>
+    
+    <div class="header-legend">
+        <div class="legend-item">
+            <span class="status-dot O legend-dot"></span>
+            <span>Obrigatório</span>
+        </div>
+        <div class="legend-item">
+            <span class="status-dot R legend-dot"></span>
+            <span>Recomendável</span>
+        </div>
+    </div>
+</header>
+
+<nav class="filter-bar">
+    <div class="filter-group-left">
+        
+        <div class="filter-wrapper">
+            <span class="filter-label">Cargo</span>
+            <input type="search" list="roleList" id="roleFilter" class="filter-select compact combobox" placeholder="Todos" oninput="atualizarFiltros()">
+            <datalist id="roleList"></datalist>
+        </div>
+
+        <div class="filter-wrapper">
+            <span class="filter-label">Categoria</span>
+            <input type="search" list="catList" id="categoryFilter" class="filter-select compact combobox" placeholder="Todas" oninput="atualizarFiltros()">
+            <datalist id="catList"></datalist>
+        </div>
+
+        <div id="statusWrapper" class="filter-wrapper" style="display: none;">
+            <span class="filter-label">Obrigatoriedade</span>
+            <select id="statusFilter" class="filter-select compact" onchange="atualizarFiltros()">
+                <option value="all">Todas</option>
+                <option value="mandatory">Obrigatório</option>
+                <option value="recommended">Recomendável</option>
+                <option value="none">Não Obrigatório</option>
+            </select>
+        </div>
+
+        <div class="filter-wrapper">
+            <span class="filter-label">Busca Rápida</span>
+            <input type="search" id="textSearch" class="filter-input compact" placeholder="" oninput="atualizarFiltros()">
+        </div>
+
+        <div class="filter-wrapper no-label">
+            <button id="btnClearFilters" class="btn-clear-icon" title="Limpar tudo" onclick="limparFiltros()"></button>
+        </div>
+    </div>
+
+    <div id="filterHUD" class="hud-monitor">
+        
+        <div class="hud-header">
+            <div class="hud-header-left">
+                <svg class="hud-icon-title" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+                    <path stroke-linecap="round" stroke-linejoin="round" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z" />
+                </svg>
+                <span>LUPA DO FILTRO</span>
+            </div>
+            </div>
+
+        <div class="hud-content">
+            <div class="hud-section hud-sec-role">
+                <span class="hud-label">CARGO</span>
+                <span class="hud-value" id="tagRole">Global</span>
+            </div>
+            
+            <div class="hud-divider"></div>
+            
+            <div class="hud-section hud-sec-cat">
+                <span class="hud-label">CATEGORIA</span>
+                <span class="hud-value" id="tagCategory">Todas</span>
+            </div>
+            
+            <div id="hudDividerStatus" class="hud-divider hidden"></div>
+            
+            <div id="tagStatusContainer" class="hud-section hidden">
+                <span class="hud-label">OBRIGATORIEDADE</span>
+                <span class="hud-value" id="tagStatus"></span>
+            </div>
+        </div>
+    </div>
+
+</nav>
+
+<div class="table-wrapper">
+    <table id="matrixTable">
+        <thead></thead>
+        <tbody></tbody>
+    </table>
+</div>
+
+<script src="data.js"></script>
+<script src="script.js" defer></script>
+</body>
+</html>
