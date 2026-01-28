@@ -141,73 +141,73 @@ const config = {
         },
         { 
             id: 25, 
-            nome: "05 - FERRAMENTAS DIGITAIS: Azure DevOps", 
+            nome: "05 - FERRAMENTAS: Azure DevOps", 
             color: colors.black,
             desc: "Introduz os fundamentos do DevOps e uso da ferramenta, ajudando o colaborador a integrar desenvolvimento e operações de forma eficiente."
         },
         { 
             id: 26, 
-            nome: "05 - FERRAMENTAS DIGITAIS: Banco de Dados", 
+            nome: "05 - FERRAMENTAS: Banco de Dados", 
             color: colors.black,
             desc: "Ensina os conceitos essenciais de bancos de dados, preparando o colaborador para trabalhar com armazenamento e manipulação de dados."
         },
         { 
             id: 27, 
-            nome: "05 - FERRAMENTAS DIGITAIS: Bizagi", 
+            nome: "05 - FERRAMENTAS: Bizagi", 
             color: colors.black,
             desc: "Apresenta o Bizagi, uma ferramenta de modelagem de processos de negócios, capacitando o colaborador a otimizar fluxos de trabalho."
         },
         { 
             id: 28, 
-            nome: "05 - FERRAMENTAS DIGITAIS: Clickup", 
+            nome: "05 - FERRAMENTAS: Clickup", 
             color: colors.black,
             desc: "Ensina o uso do Clickup, uma ferramenta de gestão de projetos, para ajudar o colaborador a organizar e gerenciar tarefas de forma eficaz."
         },
         { 
             id: 29, 
-            nome: "05 - FERRAMENTAS DIGITAIS: Figma", 
+            nome: "05 - FERRAMENTAS: Figma", 
             color: colors.black,
             desc: "Capacita o colaborador no uso do Figma para criação e colaboração em design de interfaces digitais."
         },
         { 
             id: 30, 
-            nome: "05 - FERRAMENTAS DIGITAIS: GIT", 
+            nome: "05 - FERRAMENTAS: GIT", 
             color: colors.black,
             desc: "Ensina os conceitos e o uso do GIT para controle de versão, fundamental para equipes de desenvolvimento."
         },
         { 
             id: 31, 
-            nome: "05 - FERRAMENTAS DIGITAIS: Minitab", 
+            nome: "05 - FERRAMENTAS: Minitab", 
             color: colors.black,
             desc: "Capacita o colaborador a utilizar o Minitab para análise de dados estatísticos, aprimorando a tomada de decisões baseada em dados."
         },
         { 
             id: 32, 
-            nome: "05 - FERRAMENTAS DIGITAIS: Pacote Office", 
+            nome: "05 - FERRAMENTAS: Pacote Office", 
             color: colors.black,
             desc: "Ensina o uso do Pacote Office (Word, Excel, PowerPoint) para melhorar a produtividade em diversas tarefas administrativas."
         },
         { 
             id: 33, 
-            nome: "05 - FERRAMENTAS DIGITAIS: Photoshop", 
+            nome: "05 - FERRAMENTAS: Photoshop", 
             color: colors.black,
             desc: "Introduz os fundamentos do Photoshop para edição de imagens, ajudando o colaborador a criar e manipular gráficos de forma profissional."
         },
         { 
             id: 34, 
-            nome: "05 - FERRAMENTAS DIGITAIS: Power BI - Básico", 
+            nome: "05 - FERRAMENTAS: Power BI - Básico", 
             color: colors.black,
             desc: "Apresenta os conceitos básicos do Power BI para criação de relatórios e visualizações de dados interativos."
         },
         { 
             id: 35, 
-            nome: "05 - FERRAMENTAS DIGITAIS: Power BI - Avançado", 
+            nome: "05 - FERRAMENTAS: Power BI - Avançado", 
             color: colors.black,
             desc: "Capacita o colaborador a utilizar o Power BI de forma avançada, permitindo a criação de análises de dados complexas e personalizadas."
         },
         { 
             id: 36, 
-            nome: "05 - FERRAMENTAS DIGITAIS: Trello", 
+            nome: "05 - FERRAMENTAS: Trello", 
             color: colors.black,
             desc: "Ensina o uso do Trello para organização e gerenciamento de tarefas, facilitando a colaboração e o acompanhamento de projetos."
         },
@@ -1734,6 +1734,7 @@ const config = {
     ]
 
 };
+
 
 
 
