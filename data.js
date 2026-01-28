@@ -217,10 +217,34 @@ const config = {
             desc: "Capacita o colaborador a implementar e gerenciar estruturas de governança de TI, alinhando a tecnologia aos objetivos do negócio."
         },
         { 
+            id: 67, 
+            nome: "06 - GOVERNANÇA: ITIL - Overview", 
+            color: colors.red,
+            desc: "Fornece uma visão geral do ITIL, apresentando os principais conceitos e práticas para a gestão de serviços de TI."
+        },
+        { 
+            id: 68, 
+            nome: "06 - GOVERNANÇA: ITIL - Carreiras", 
+            color: colors.red,
+            desc: "Capacita o colaborador a explorar as diferentes carreiras disponíveis no ITIL, auxiliando na definição de trajetórias profissionais."
+        },
+        { 
             id: 38, 
             nome: "06 - GOVERNANÇA: ITIL 4 Foundation", 
             color: colors.blueDark,
             desc: "Ensina os fundamentos do ITIL 4, preparando o colaborador para aplicar boas práticas de gerenciamento de serviços de TI."
+        },
+        { 
+            id: 71, 
+            nome: "06 - GOVERNANÇA: FAMÍLIA ISO 20000", 
+            color: colors.red,
+            desc: "Capacita o colaborador a entender e aplicar as normas da família ISO 20000 para gerenciamento de serviços de TI."
+        },
+        { 
+            id: 72, 
+            nome: "06 - GOVERNANÇA: FAMÍLIA ISO 27000", 
+            color: colors.red,
+            desc: "Ensina a importância da conformidade com as normas da família ISO 27000, preparando o colaborador para garantir a segurança da informação."
         },
         { 
             id: 39, 
@@ -230,9 +254,9 @@ const config = {
         },
         { 
             id: 40, 
-            nome: "06 - GOVERNANÇA: ISO 20000 / 27001 / 42001", 
-            color: colors.blueDark,
-            desc: "Capacita o colaborador a entender e aplicar as principais normas ISO em TI, garantindo conformidade e segurança da informação."
+            nome: "06 - GOVERNANÇA: FAMÍLIA ISO 42000", 
+            color: colors.red,
+            desc: "Ensina a importância da família ISO 42000, preparando o colaborador para governança de IA."
         },
         { 
             id: 41, 
@@ -240,6 +264,9 @@ const config = {
             color: colors.blueDark,
             desc: "Introduz o framework AgileShift, ensinando como gerenciar transformações ágeis em toda a organização."
         },
+
+
+		
         { 
             id: 42, 
             nome: "07 - CMMI TEC: Areas de Prática do Modelo", 
@@ -276,6 +303,9 @@ const config = {
             color: colors.grey,
             desc: "Ensina as rotinas organizacionais conforme o CMMI, capacitando o colaborador a alinhar as práticas diárias aos objetivos de qualidade."
         },
+
+
+		
         { 
             id: 48, 
             nome: "08 - INFRAESTRUTURA: Hardware/Redes", 
@@ -390,42 +420,7 @@ const config = {
             color: colors.red,
             desc: "Ensina como gerenciar uma central de serviços de TI, focando no atendimento eficiente e solução de problemas técnicos."
         },
-        { 
-            id: 67, 
-            nome: "16 - GOVERNANÇA: ITIL - Overview", 
-            color: colors.red,
-            desc: "Fornece uma visão geral do ITIL, apresentando os principais conceitos e práticas para a gestão de serviços de TI."
-        },
-        { 
-            id: 68, 
-            nome: "16 - GOVERNANÇA: ITIL - Carreiras", 
-            color: colors.red,
-            desc: "Capacita o colaborador a explorar as diferentes carreiras disponíveis no ITIL, auxiliando na definição de trajetórias profissionais."
-        },
-        { 
-            id: 69, 
-            nome: "16 - GOVERNANÇA: ITIL 4", 
-            color: colors.red,
-            desc: "Ensina os fundamentos do ITIL 4, preparando o colaborador para aplicar boas práticas de gerenciamento de serviços de TI."
-        },
-        { 
-            id: 70, 
-            nome: "16 - GOVERNANÇA: COBIT 2019", 
-            color: colors.red,
-            desc: "Apresenta o framework COBIT 2019, capacitando o colaborador a gerenciar e governar a TI dentro das organizações."
-        },
-        { 
-            id: 71, 
-            nome: "16 - GOVERNANÇA: FAMÍLIA ISO 20000", 
-            color: colors.red,
-            desc: "Capacita o colaborador a entender e aplicar as normas da família ISO 20000 para gerenciamento de serviços de TI."
-        },
-        { 
-            id: 72, 
-            nome: "16 - GOVERNANÇA: FAMÍLIA ISO 27000", 
-            color: colors.red,
-            desc: "Ensina a importância da conformidade com as normas da família ISO 27000, preparando o colaborador para garantir a segurança da informação."
-        },
+
         { 
             id: 73, 
             nome: "16 - GOVERNANÇA: Gestão Ágil com SCRUM", 
@@ -1741,6 +1736,7 @@ const config = {
     ]
 
 };
+
 
 
 
