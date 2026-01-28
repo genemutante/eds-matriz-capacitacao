@@ -302,7 +302,7 @@ const config = {
         },
         { 
             id: 47, 
-            nome: "07 - CMMI GLOBAL: Rotinas Organizacionais", 
+            nome: "07 - CMMI GLOBAL: Diretrizes Organizacionais", 
             color: colors.grey,
             desc: "Ensina as rotinas organizacionais conforme o CMMI, capacitando o colaborador a alinhar as práticas diárias aos objetivos de qualidade."
         },
@@ -1734,6 +1734,7 @@ const config = {
     ]
 
 };
+
 
 
 
