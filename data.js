@@ -528,6 +528,12 @@ const config = {
             desc: "Capacita o colaborador a utilizar a AWS para desenvolver, implantar e gerenciar soluções na nuvem."
         },
         { 
+            id: 11, 
+            nome: "TI - DESENVOLVIMENTO: AZURE DEVOPS", 
+            color: colors.blueLight,
+            desc: "Capacita o colaborador a usar o Azure DevOps para planejar, automatizar e entregar software com CI/CD."
+        },
+        { 
             id: 88, 
             nome: "TI - DESENVOLVIMENTO: CLOUD", 
             color: colors.blueLight,
@@ -628,6 +634,11 @@ const config = {
             nome: "TI - DESENVOLVIMENTO: REDUX", 
             color: colors.blueLight,
             desc: "Capacita o colaborador a utilizar Redux para gerenciar o estado de aplicações React de forma eficiente."
+        },
+            id: 12, 
+            nome: "TI - DESENVOLVIMENTO: RESTFULL", 
+            color: colors.blueLight,
+            desc: "Capacita o colaborador a utilizar APIs RESTful para desenvolver, consumir e integrar serviços, aplicando boas práticas de endpoints, métodos HTTP e padrões de troca de dados."
         },
         { 
             id: 105, 
@@ -1738,4 +1749,5 @@ const config = {
     ]
 
 };
+
 
