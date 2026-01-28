@@ -74,31 +74,31 @@ const config = {
         },
         { 
             id: 14, 
-            nome: "QA: Custos da não qualidade", 
+            nome: "04 - QA: Custos da não qualidade", 
             color: colors.green,
             desc: "Explora os impactos financeiros e operacionais da falta de qualidade no desenvolvimento de software, capacitando o colaborador a mitigar esses riscos."
         },
         { 
             id: 15, 
-            nome: "QA: Qualidade do Início ao Fim", 
+            nome: "04 - QA: Qualidade do Início ao Fim", 
             color: colors.green,
             desc: "Ensina o ciclo completo de qualidade, garantindo que o colaborador acompanhe e assegure a qualidade do produto desde o início até a entrega final."
         },
         { 
             id: 16, 
-            nome: "QA: Fundamentos em Testes", 
+            nome: "04 - QA: Fundamentos em Testes", 
             color: colors.green,
             desc: "Apresenta os conceitos básicos de testes de software, capacitando o colaborador a identificar e corrigir defeitos nos produtos desenvolvidos."
         },
         { 
             id: 17, 
-            nome: "QA: Ferramentas da Qualidade", 
+            nome: "04 - QA: Ferramentas da Qualidade", 
             color: colors.green,
             desc: "Capacita o colaborador a utilizar ferramentas específicas de QA para automatizar e melhorar o processo de controle de qualidade."
         },
         { 
             id: 18, 
-            nome: "QA: Introdução a Carreira de QA", 
+            nome: "04 - QA: Introdução a Carreira de QA", 
             color: colors.green,
             desc: "Introduz a carreira de QA, explicando os papéis e responsabilidades, ajudando o colaborador a se orientar e se destacar na área."
         },
@@ -110,61 +110,61 @@ const config = {
         },
         { 
             id: 20, 
-            nome: "QA: Robot Framework - Fundamentos", 
+            nome: "04 - QA: Robot Framework - Fundamentos", 
             color: colors.green,
             desc: "Apresenta os fundamentos do Robot Framework, ajudando o colaborador a iniciar com automação de testes de forma eficaz."
         },
         { 
             id: 21, 
-            nome: "QA: Robot Framework - Avançado", 
+            nome: "04 - QA: Robot Framework - Avançado", 
             color: colors.green,
             desc: "Aprofunda no uso do Robot Framework para automação avançada de testes, capacitando o colaborador a realizar testes complexos."
         },
         { 
             id: 22, 
-            nome: "QA: Robot Framework - Testes com API", 
+            nome: "04 - QA: Robot Framework - Testes com API", 
             color: colors.green,
             desc: "Capacita o colaborador a realizar testes automatizados de APIs utilizando o Robot Framework, melhorando a cobertura e eficiência dos testes."
         },
         { 
             id: 23, 
-            nome: "QA: Engenharia de Requisitos", 
+            nome: "04 - QA: Engenharia de Requisitos", 
             color: colors.green,
             desc: "Explora os conceitos de engenharia de requisitos, preparando o colaborador para coletar e documentar necessidades de clientes de forma eficaz."
         },
         { 
             id: 24, 
-            nome: "QA: OKR - Objectives and Key Results", 
+            nome: "04 - QA: OKR - Objectives and Key Results", 
             color: colors.green,
             desc: "Introduz o framework OKR, capacitando o colaborador a definir e acompanhar metas e resultados-chave alinhados com os objetivos estratégicos."
         },
         { 
             id: 25, 
-            nome: "FERRAMENTAS DIGITAIS: Azure DevOps", 
+            nome: "05 - FERRAMENTAS DIGITAIS: Azure DevOps", 
             color: colors.black,
             desc: "Introduz os fundamentos do DevOps e uso da ferramenta, ajudando o colaborador a integrar desenvolvimento e operações de forma eficiente."
         },
         { 
             id: 26, 
-            nome: "FERRAMENTAS DIGITAIS: Banco de Dados", 
+            nome: "05 - FERRAMENTAS DIGITAIS: Banco de Dados", 
             color: colors.black,
             desc: "Ensina os conceitos essenciais de bancos de dados, preparando o colaborador para trabalhar com armazenamento e manipulação de dados."
         },
         { 
             id: 27, 
-            nome: "FERRAMENTAS DIGITAIS: Bizagi", 
+            nome: "05 - FERRAMENTAS DIGITAIS: Bizagi", 
             color: colors.black,
             desc: "Apresenta o Bizagi, uma ferramenta de modelagem de processos de negócios, capacitando o colaborador a otimizar fluxos de trabalho."
         },
         { 
             id: 28, 
-            nome: "FERRAMENTAS DIGITAIS: Clickup", 
+            nome: "05 - FERRAMENTAS DIGITAIS: Clickup", 
             color: colors.black,
             desc: "Ensina o uso do Clickup, uma ferramenta de gestão de projetos, para ajudar o colaborador a organizar e gerenciar tarefas de forma eficaz."
         },
         { 
             id: 29, 
-            nome: "FERRAMENTAS DIGITAIS: Figma", 
+            nome: "05 - FERRAMENTAS DIGITAIS: Figma", 
             color: colors.black,
             desc: "Capacita o colaborador no uso do Figma para criação e colaboração em design de interfaces digitais."
         },
@@ -176,13 +176,13 @@ const config = {
         },
         { 
             id: 31, 
-            nome: "FERRAMENTAS DIGITAIS: Minitab", 
+            nome: "05 - FERRAMENTAS DIGITAIS: Minitab", 
             color: colors.black,
             desc: "Capacita o colaborador a utilizar o Minitab para análise de dados estatísticos, aprimorando a tomada de decisões baseada em dados."
         },
         { 
             id: 32, 
-            nome: "FERRAMENTAS DIGITAIS: Pacote Office", 
+            nome: "05 - FERRAMENTAS DIGITAIS: Pacote Office", 
             color: colors.black,
             desc: "Ensina o uso do Pacote Office (Word, Excel, PowerPoint) para melhorar a produtividade em diversas tarefas administrativas."
         },
@@ -194,19 +194,19 @@ const config = {
         },
         { 
             id: 34, 
-            nome: "FERRAMENTAS DIGITAIS: Power BI - Básico", 
+            nome: "05 - FERRAMENTAS DIGITAIS: Power BI - Básico", 
             color: colors.black,
             desc: "Apresenta os conceitos básicos do Power BI para criação de relatórios e visualizações de dados interativos."
         },
         { 
             id: 35, 
-            nome: "FERRAMENTAS DIGITAIS: Power BI - Avançado", 
+            nome: "05 - FERRAMENTAS DIGITAIS: Power BI - Avançado", 
             color: colors.black,
             desc: "Capacita o colaborador a utilizar o Power BI de forma avançada, permitindo a criação de análises de dados complexas e personalizadas."
         },
         { 
             id: 36, 
-            nome: "FERRAMENTAS DIGITAIS: Trello", 
+            nome: "05 - FERRAMENTAS DIGITAIS: Trello", 
             color: colors.black,
             desc: "Ensina o uso do Trello para organização e gerenciamento de tarefas, facilitando a colaboração e o acompanhamento de projetos."
         },
@@ -1741,6 +1741,7 @@ const config = {
     ]
 
 };
+
 
 
 
