@@ -212,31 +212,31 @@ const config = {
         },
         { 
             id: 37, 
-            nome: "06 - GESTÃO DE TI: Governança de TI", 
+            nome: "06 - GOVERNANÇA: Governança de TI", 
             color: colors.blueDark,
             desc: "Capacita o colaborador a implementar e gerenciar estruturas de governança de TI, alinhando a tecnologia aos objetivos do negócio."
         },
         { 
             id: 38, 
-            nome: "06 - GESTÃO DE TI: ITIL 4 Foundation", 
+            nome: "06 - GOVERNANÇA: ITIL 4 Foundation", 
             color: colors.blueDark,
             desc: "Ensina os fundamentos do ITIL 4, preparando o colaborador para aplicar boas práticas de gerenciamento de serviços de TI."
         },
         { 
             id: 39, 
-            nome: "06 - GESTÃO DE TI: COBIT 2019", 
+            nome: "06 - GOVERNANÇA: COBIT 2019", 
             color: colors.blueDark,
             desc: "Apresenta o framework COBIT 2019, capacitando o colaborador a gerenciar e governar a TI dentro das organizações."
         },
         { 
             id: 40, 
-            nome: "06 - GESTÃO DE TI: ISO 20000 / 27001 / 42001", 
+            nome: "06 - GOVERNANÇA: ISO 20000 / 27001 / 42001", 
             color: colors.blueDark,
             desc: "Capacita o colaborador a entender e aplicar as principais normas ISO em TI, garantindo conformidade e segurança da informação."
         },
         { 
             id: 41, 
-            nome: "06 - GESTÃO DE TI: AgileShift", 
+            nome: "06 - GOVERNANÇA: AgileShift", 
             color: colors.blueDark,
             desc: "Introduz o framework AgileShift, ensinando como gerenciar transformações ágeis em toda a organização."
         },
@@ -1741,6 +1741,7 @@ const config = {
     ]
 
 };
+
 
 
 
