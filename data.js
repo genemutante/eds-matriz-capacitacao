@@ -252,19 +252,19 @@ const config = {
 		
         { 
             id: 71, 
-            nome: "06 - GOVERNANÇA: FAMÍLIA ISO 20000", 
+            nome: "06 - GOVERNANÇA: ISO 20000 - Gestão de serviços de TI", 
             color: colors.red,
             desc: "Capacita o colaborador a entender e aplicar as normas da família ISO 20000 para gerenciamento de serviços de TI."
         },
         { 
             id: 72, 
-            nome: "06 - GOVERNANÇA: FAMÍLIA ISO 27000", 
+            nome: "06 - GOVERNANÇA: ISO 27000 - Segurança da informação", 
             color: colors.red,
             desc: "Ensina a importância da conformidade com as normas da família ISO 27000, preparando o colaborador para garantir a segurança da informação."
         },
         { 
             id: 40, 
-            nome: "06 - GOVERNANÇA: FAMÍLIA ISO 42000", 
+            nome: "06 - GOVERNANÇA: ISO 42000 - Governança de IA", 
             color: colors.red,
             desc: "Ensina a importância da família ISO 42000, preparando o colaborador para governança de IA."
         },
@@ -1734,6 +1734,7 @@ const config = {
     ]
 
 };
+
 
 
 
