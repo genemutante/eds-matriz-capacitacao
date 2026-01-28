@@ -409,261 +409,261 @@ const config = {
 
         { 
             id: 13, 
-            nome: "17 - PROCESSOS: Mapeamento de Processos", 
+            nome: "16 - PROCESSOS: Mapeamento de Processos", 
             color: colors.cyan,
             desc: "Capacita o colaborador a mapear e modelar processos, promovendo uma visão clara dos fluxos de trabalho e suas melhorias."
         },
         { 
             id: 77, 
-            nome: "17 - PROCESSOS: Bizagi Modeler", 
+            nome: "16 - PROCESSOS: Bizagi Modeler", 
             color: colors.cyan,
             desc: "Ensina o uso do Bizagi Modeler para modelagem de processos de negócios, otimizando fluxos de trabalho."
         },
         { 
             id: 78, 
-            nome: "17 - PROCESSOS: Estatística Básica", 
+            nome: "16 - PROCESSOS: Estatística Básica", 
             color: colors.cyan,
             desc: "Capacita o colaborador a compreender conceitos básicos de estatística, aplicando-os na análise de dados para melhoria contínua."
         },
         { 
             id: 79, 
-            nome: "17 - PROCESSOS: Introdução ao Lean", 
+            nome: "16 - PROCESSOS: Introdução ao Lean", 
             color: colors.cyan,
             desc: "Introduz os princípios do Lean, capacitando o colaborador a eliminar desperdícios e aumentar a eficiência nos processos."
         },
         { 
             id: 80, 
-            nome: "17 - PROCESSOS: KAIZEN", 
+            nome: "16 - PROCESSOS: KAIZEN", 
             color: colors.cyan,
             desc: "Apresenta a metodologia Kaizen, ensinando o colaborador a implementar melhorias contínuas em processos de trabalho."
         },
         { 
             id: 81, 
-            nome: "17 - PROCESSOS: KPI", 
+            nome: "16 - PROCESSOS: KPI", 
             color: colors.cyan,
             desc: "Ensina como definir e medir indicadores de desempenho (KPIs), fundamentais para monitorar e otimizar a performance organizacional."
         },
         { 
             id: 82, 
-            nome: "17 - PROCESSOS: Lean White Belt", 
+            nome: "16 - PROCESSOS: Lean White Belt", 
             color: colors.cyan,
             desc: "Introduz os fundamentos do Lean Seis Sigma White Belt, capacitando o colaborador a apoiar iniciativas de melhoria de qualidade."
         },
         { 
             id: 83, 
-            nome: "17 - PROCESSOS: Lean Yellow Belt", 
+            nome: "16 - PROCESSOS: Lean Yellow Belt", 
             color: colors.cyan,
             desc: "Ensina os conceitos do Lean Seis Sigma Yellow Belt, preparando o colaborador para liderar pequenas melhorias em processos."
         },
         { 
             id: 85, 
-            nome: "17 - PROCESSOS: MASP & PDCA", 
+            nome: "16 - PROCESSOS: MASP & PDCA", 
             color: colors.cyan,
             desc: "Apresenta as metodologias MASP e PDCA para resolução de problemas e melhoria contínua, garantindo processos mais eficientes."
         },
         { 
             id: 86, 
-            nome: "18 - DESENVOLVIMENTO: API", 
+            nome: "17 - DESENVOLVIMENTO: API", 
             color: colors.blueLight,
             desc: "Ensina a criação e consumo de APIs, capacitando o colaborador a desenvolver integrações eficientes entre sistemas."
         },
         { 
             id: 87, 
-            nome: "18 - DESENVOLVIMENTO: AWS", 
+            nome: "17 - DESENVOLVIMENTO: AWS", 
             color: colors.blueLight,
             desc: "Capacita o colaborador a utilizar a AWS para desenvolver, implantar e gerenciar soluções na nuvem."
         },
 
         { 
             id: 88, 
-            nome: "18 - DESENVOLVIMENTO: CLOUD", 
+            nome: "17 - DESENVOLVIMENTO: CLOUD", 
             color: colors.blueLight,
             desc: "Introduz os conceitos de computação em nuvem, capacitando o colaborador a trabalhar com infraestrutura e serviços escaláveis."
         },
         { 
             id: 11, 
-            nome: "18 - DESENVOLVIMENTO: AZURE DEVOPS", 
+            nome: "17 - DESENVOLVIMENTO: AZURE DEVOPS", 
             color: colors.blueLight,
             desc: "Capacita o colaborador a usar o Azure DevOps para planejar, automatizar e entregar software com CI/CD."
         },
 	
         { 
             id: 89, 
-            nome: "18 - DESENVOLVIMENTO: DJANGO", 
+            nome: "17 - DESENVOLVIMENTO: DJANGO", 
             color: colors.blueLight,
             desc: "Ensina o uso do Django para desenvolvimento web em Python, capacitando o colaborador a criar aplicações robustas e escaláveis."
         },
         { 
             id: 90, 
-            nome: "18 - DESENVOLVIMENTO: DOCKER", 
+            nome: "17 - DESENVOLVIMENTO: DOCKER", 
             color: colors.blueLight,
             desc: "Capacita o colaborador a utilizar Docker para criar, implantar e gerenciar containers, facilitando o desenvolvimento e a operação de software."
         },
         { 
             id: 91, 
-            nome: "18 - DESENVOLVIMENTO: FLASK", 
+            nome: "17 - DESENVOLVIMENTO: FLASK", 
             color: colors.blueLight,
             desc: "Ensina o uso do Flask para desenvolvimento de aplicações web leves e rápidas em Python."
         },
         { 
             id: 92, 
-            nome: "18 - DESENVOLVIMENTO: GIT", 
+            nome: "17 - DESENVOLVIMENTO: GIT", 
             color: colors.blueLight,
             desc: "Apresenta o GIT como ferramenta de controle de versão, capacitando o colaborador a colaborar e gerenciar código de forma eficiente."
         },
         { 
             id: 93, 
-            nome: "18 - DESENVOLVIMENTO: HTML", 
+            nome: "17 - DESENVOLVIMENTO: HTML", 
             color: colors.blueLight,
             desc: "Ensina os fundamentos de HTML, capacitando o colaborador a criar e estruturar páginas web."
         },
         { 
             id: 94, 
-            nome: "18 - DESENVOLVIMENTO: CSS", 
+            nome: "17 - DESENVOLVIMENTO: CSS", 
             color: colors.blueLight,
             desc: "Ensina os fundamentos de CSS, capacitando o colaborador a estilizar páginas web e melhorar a experiência do usuário."
         },
         { 
             id: 95, 
-            nome: "18 - DESENVOLVIMENTO: JAVASCRIPT", 
+            nome: "17 - DESENVOLVIMENTO: JAVASCRIPT", 
             color: colors.blueLight,
             desc: "Ensina os fundamentos de JavaScript, capacitando o colaborador a desenvolver aplicações web dinâmicas e interativas."
         },
         { 
             id: 96, 
-            nome: "18 - DESENVOLVIMENTO: LÓGICA", 
+            nome: "17 - DESENVOLVIMENTO: LÓGICA", 
             color: colors.blueLight,
             desc: "Capacita o colaborador a entender lógica de programação e algoritmos, essenciais para resolver problemas complexos."
         },
         { 
             id: 97, 
-            nome: "18 - DESENVOLVIMENTO: MENSAGERIA", 
+            nome: "17 - DESENVOLVIMENTO: MENSAGERIA", 
             color: colors.blueLight,
             desc: "Ensina os conceitos de mensageria, capacitando o colaborador a implementar sistemas de comunicação assíncrona entre serviços."
         },
         { 
             id: 98, 
-            nome: "18 - DESENVOLVIMENTO: MOBX", 
+            nome: "17 - DESENVOLVIMENTO: MOBX", 
             color: colors.blueLight,
             desc: "Apresenta o MOBX como uma biblioteca de gerenciamento de estado, capacitando o colaborador a criar aplicações web escaláveis."
         },
         { 
             id: 99, 
-            nome: "18 - DESENVOLVIMENTO: NODEJS", 
+            nome: "17 - DESENVOLVIMENTO: NODEJS", 
             color: colors.blueLight,
             desc: "Ensina o uso do Node.js para desenvolvimento de aplicações server-side, capacitando o colaborador a construir sistemas rápidos e escaláveis."
         },
         { 
             id: 100, 
-            nome: "18 - DESENVOLVIMENTO: ORM", 
+            nome: "17 - DESENVOLVIMENTO: ORM", 
             color: colors.blueLight,
             desc: "Capacita o colaborador a utilizar ORMs para simplificar a interação com bancos de dados relacionais em linguagens de programação."
         },
         { 
             id: 101, 
-            nome: "18 - DESENVOLVIMENTO: POO", 
+            nome: "17 - DESENVOLVIMENTO: POO", 
             color: colors.blueLight,
             desc: "Ensina os conceitos de Programação Orientada a Objetos (POO), capacitando o colaborador a desenvolver soluções mais estruturadas."
         },
         { 
             id: 102, 
-            nome: "18 - DESENVOLVIMENTO: PYTHON", 
+            nome: "17 - DESENVOLVIMENTO: PYTHON", 
             color: colors.blueLight,
             desc: "Capacita o colaborador a utilizar Python para desenvolver scripts e aplicações, otimizando processos e resolvendo problemas complexos."
         },
         { 
             id: 103, 
-            nome: "18 - DESENVOLVIMENTO: REACT", 
+            nome: "17 - DESENVOLVIMENTO: REACT", 
             color: colors.blueLight,
             desc: "Ensina o uso do React para construção de interfaces de usuário dinâmicas e escaláveis em aplicações web."
         },
         { 
             id: 104, 
-            nome: "18 - DESENVOLVIMENTO: REDUX", 
+            nome: "17 - DESENVOLVIMENTO: REDUX", 
             color: colors.blueLight,
             desc: "Capacita o colaborador a utilizar Redux para gerenciar o estado de aplicações React de forma eficiente."
         },
 	    { 
             id: 12, 
-            nome: "18 - DESENVOLVIMENTO: RESTFULL", 
+            nome: "17 - DESENVOLVIMENTO: RESTFULL", 
             color: colors.blueLight,
             desc: "Capacita o colaborador a utilizar APIs RESTful para desenvolver, consumir e integrar serviços, aplicando boas práticas de endpoints, métodos HTTP e padrões de troca de dados."
         },
         { 
             id: 105, 
-            nome: "18 - DESENVOLVIMENTO: ROADMAPS", 
+            nome: "17 - DESENVOLVIMENTO: ROADMAPS", 
             color: colors.blueLight,
             desc: "Apresenta roadmaps de desenvolvimento, capacitando o colaborador a planejar sua evolução técnica em diferentes tecnologias."
         },
         { 
             id: 106, 
-            nome: "18 - DESENVOLVIMENTO: SQL", 
+            nome: "17 - DESENVOLVIMENTO: SQL", 
             color: colors.blueLight,
             desc: "Ensina SQL para gerenciamento e consulta de bancos de dados relacionais, capacitando o colaborador a manipular dados de forma eficiente."
         },
         { 
             id: 107, 
-            nome: "18 - DESENVOLVIMENTO: TYPESCRIPT", 
+            nome: "17 - DESENVOLVIMENTO: TYPESCRIPT", 
             color: colors.blueLight,
             desc: "Capacita o colaborador a utilizar TypeScript para adicionar tipagem estática ao JavaScript, aumentando a segurança e escalabilidade do código."
         },
         { 
             id: 108, 
-            nome: "19 - AUTOMAÇÃO: Básico de Make", 
+            nome: "18 - AUTOMAÇÃO: Básico de Make", 
             color: colors.grey,
             desc: "Ensina técnicas para criar fluxos de automação eficazes que otimizam processos, capacitando o colaborador a integrar ferramentas de forma eficiente."
         },
         { 
             id: 109, 
-            nome: "19 - AUTOMAÇÃO: Básico de Manychat", 
+            nome: "18 - AUTOMAÇÃO: Básico de Manychat", 
             color: colors.grey,
             desc: "Capacita o colaborador a criar chatbots e automações de atendimento, melhorando o engajamento e a eficiência na comunicação."
         },
         { 
             id: 110, 
-            nome: "19 - AUTOMAÇÃO: Básico de n8n", 
+            nome: "18 - AUTOMAÇÃO: Básico de n8n", 
             color: colors.grey,
             desc: "Ensina a utilizar o n8n para criar automações de fluxo de trabalho complexas e integradas, otimizando processos operacionais."
         },
         { 
             id: 111, 
-            nome: "20 - IA: Overview", 
+            nome: "19 - IA: Overview", 
             color: colors.yellow,
             desc: "Fornece uma visão geral sobre Inteligência Artificial, seus conceitos fundamentais e impacto nos negócios."
         },
         { 
             id: 112, 
-            nome: "20 - IA: LLMS", 
+            nome: "19 - IA: LLMS", 
             color: colors.yellow,
             desc: "Explora os Grandes Modelos de Linguagem (LLMs), explicando como funcionam e suas aplicações práticas."
         },
         { 
             id: 113, 
-            nome: "20 - IA: ENG. DE PROMPT - FUNDAMENTOS", 
+            nome: "19 - IA: ENG. DE PROMPT - FUNDAMENTOS", 
             color: colors.yellow,
             desc: "Ensina os fundamentos da engenharia de prompt, capacitando o colaborador a interagir de forma eficaz com modelos de IA."
         },
         { 
             id: 114, 
-            nome: "20 - IA: ENG. DE PROMPT - CASOS DE USO", 
+            nome: "19 - IA: ENG. DE PROMPT - CASOS DE USO", 
             color: colors.yellow,
             desc: "Apresenta casos de uso práticos de engenharia de prompt, demonstrando como aplicar a técnica em situações reais."
         },
         { 
             id: 115, 
-            nome: "20 - IA: ENG. DE CONTEXTO - OVERVIEW", 
+            nome: "19 - IA: ENG. DE CONTEXTO - OVERVIEW", 
             color: colors.yellow,
             desc: "Introduz a engenharia de contexto, ensinando como fornecer informações relevantes para melhorar as respostas da IA."
         },
         { 
             id: 116, 
-            nome: "20 - IA: ASSISTENTES DE IA", 
+            nome: "19 - IA: ASSISTENTES DE IA", 
             color: colors.yellow,
             desc: "Capacita o colaborador a criar e utilizar assistentes de IA para automatizar tarefas e aumentar a produtividade."
         },
         { 
             id: 117, 
-            nome: "20 - IA: AGENTES DE IA", 
+            nome: "19 - IA: AGENTES DE IA", 
             color: colors.yellow,
             desc: "Ensina sobre agentes de IA autônomos, explorando como eles podem executar tarefas complexas sem intervenção humana constante."
         }
@@ -937,7 +937,7 @@ const config = {
             // - Controle/Qualidade: KPI (81), CMMI Global (44-47 - Vital para PP/PMC)
             // - Gestão Geral: Pessoas (53), Processos (54)
             // - Compliance: Leis (58), LGPD (59)
-            // - IA: Trilha Completa (111-117 19 - AUTOMAÇÃO de PMO)
+            // - IA: Trilha Completa (111-117 18 - AUTOMAÇÃO de PMO)
             obrigatorios: [
                 1, 2, 3, 5, 
                 8, 25, 32, 
@@ -960,7 +960,7 @@ const config = {
             // - Diferencial Competitivo: CMMI Global (44-47 - Para vender qualidade)
             // - Gestão Tática: Financeira (52 - Metas), Pessoas (53), Processos (54 - Pipeline), Projetos (55 - Campanhas)
             // - Compliance: Leis (58), LGPD (59 - Dados de leads)
-            // - IA: Trilha Completa (111-117 - Produtividade comercial)
+            // - IA: Trilha Completa (111-116 - Produtividade comercial)
             obrigatorios: [
                 1, 2, 3, 5, 
                 32, 
@@ -983,7 +983,7 @@ const config = {
             // - Argumento de Venda (Produto): Framework Scrum (8), CMMI Global (44-47 - "Vendendo a Qualidade")
             // - Rotina: Gestão de Processos (54 - Pipeline)
             // - Compliance: Leis (58), LGPD (59 - Dados de Clientes)
-            // - IA: Trilha Completa (111-117 - Produtividade)
+            // - IA: Trilha Completa (111-116 - Produtividade)
             obrigatorios: [
                 1, 2, 3, 
                 8, 
@@ -1007,7 +1007,7 @@ const config = {
             // - Produto/Qualificação: Framework Scrum (8 - Entender a demanda), CMMI Global (44-47 - Pitch de Qualidade)
             // - Rotina: Gestão de Processos (54 - Cadência/CRM)
             // - Compliance: Leis (58), LGPD (59 - Crítico para quem manipula listas)
-            // - IA: Trilha Completa (111-117 - Geração de Scripts/Pesquisa)
+            // - IA: Trilha Completa (111-116 - Geração de Scripts/Pesquisa)
             obrigatorios: [
                 1, 2, 3, 
                 8, 
@@ -1032,7 +1032,7 @@ const config = {
             // - Compliance: Leis (58), LGPD (59 - Segurança no código)
             // - Tech Core (Mentoria/Review): Git (92), Lógica (96), POO (101), SQL (106)
             // - Stack Principal (Exemplo Fullstack): JS (95), Node (99), React (103), TypeScript (107)
-            // - IA: Trilha Completa (111-117 - Liderar a inovação no time)
+            // - IA: Trilha Completa (111-116 - Liderar a inovação no time)
             obrigatorios: [
                 1, 2, 3, 5, 
                 8, 25, 32, 
@@ -1061,7 +1061,7 @@ const config = {
             // - Processo/Controle: KPI (81), CMMI Global (44-47)
             // - Gestão: Pessoas (53), Processos (54 - Gestão de Incidentes/Requisições)
             // - Compliance: Leis (58), LGPD (59 - Dados sensíveis de chamados)
-            // - IA: Trilha Completa (111-117 19 - AUTOMAÇÃO de Suporte)
+            // - IA: Trilha Completa (111-117 18 - AUTOMAÇÃO de Suporte)
             obrigatorios: [
                 1, 2, 3, 5, 
                 7, 
@@ -1148,7 +1148,7 @@ const config = {
             // - Fundamentos: Git (92), Lógica (96), POO (101), SQL (106 - Banco de dados)
             // - Stack Principal (Web Fullstack): HTML (93), CSS (94), JS (95), Node (99), React (103)
             // - Compliance: LGPD (59 - Security by design)
-            // - IA: Trilha Completa (111-117 - Coding Assistants)
+            // - IA: Trilha Completa (111-116 - Coding Assistants)
             obrigatorios: [
                 1, 2, 3, 
                 8, 25, 
@@ -1201,7 +1201,7 @@ const config = {
             // - Ferramentas de Automação (Core): Make (108), n8n (110)
             // - Técnico (Integração): API (86), Lógica de Programação (96)
             // - Governança: CMMI Global (44-47 - Para manter a padronização), LGPD (59 - Segurança de dados em trânsito)
-            // - IA: Trilha Completa (111-117 - Criação de Agentes/Automação Inteligente)
+            // - IA: Trilha Completa (111-116 - Criação de Agentes/Automação Inteligente)
             obrigatorios: [
                 1, 2, 3, 
                 13, 
@@ -1226,11 +1226,11 @@ const config = {
             // Obrigatórios: 
             // - Básicos: Onboarding (1-3)
             // - Core QA (Conceitos): Custos (14), Qualidade Fim-a-Fim (15), Fundamentos (16), Ferramentas (17), Carreira (18), Gestão Q. (19)
-            // 19 - AUTOMAÇÃO Core: Robot Framework Fundamentos (20)
+            // 18 - AUTOMAÇÃO Core: Robot Framework Fundamentos (20)
             // - Processo/Ferramenta: Framework Scrum (8), Azure DevOps (25)
             // - CMMI Técnico: Areas de Prática (42), Ciclo de Vida (43)
             // - Compliance: LGPD (59 - Dados de teste anonimizados)
-            // - IA: Trilha Completa (111-117 - Geração de casos de teste)
+            // - IA: Trilha Completa (111-116 - Geração de casos de teste)
             obrigatorios: [
                 1, 2, 3, 
                 8, 
@@ -1242,7 +1242,7 @@ const config = {
                 111, 112, 113, 114, 115, 116, 117
             ],
             // Recomendados: 
-            // 19 - AUTOMAÇÃO Avançada: Robot Avançado (21), Robot API (22)
+            // 18 - AUTOMAÇÃO Avançada: Robot Avançado (21), Robot API (22)
             // - Técnico: API (86), Lógica (96), SQL (106 - Validação de banco)
             // - Interface com Negócio: Engenharia de Requisitos (23 - BDD/Critérios de Aceite)
             // - Soft Skills: Microbooks (6)
@@ -1258,7 +1258,7 @@ const config = {
             // - Metodologia/Ferramenta: Framework Scrum (8), Azure DevOps (25 - Gestão de Backlog)
             // - CMMI Técnico: Areas de Prática (42), Ciclo de Vida (43 - Vital para RD/REQM)
             // - Compliance: LGPD (59 - Especificação de dados seguros)
-            // - IA: Trilha Completa (111-117 - Geração de documentação/Histórias)
+            // - IA: Trilha Completa (111-116 - Geração de documentação/Histórias)
             obrigatorios: [
                 1, 2, 3, 
                 8, 
@@ -1286,7 +1286,7 @@ const config = {
             // - Processo Organizacional: CMMI Global (44-47 - Área de Processo OT), Gestão de Processos (54 - Logística de Treinamento)
             // - Base de Desenvolvimento: Gestão de Pessoas (53 - Desenvolvimento Humano)
             // - Compliance: LGPD (59 - Dados dos colaboradores)
-            // - IA: Trilha Completa (111-117 - Criação de conteúdo/Roteiros)
+            // - IA: Trilha Completa (111-116 - Criação de conteúdo/Roteiros)
             obrigatorios: [
                 1, 2, 3, 
                 32, 
@@ -1312,7 +1312,7 @@ const config = {
             // - Processo de TI: ITIL 4 Foundation (38 - Linguagem padrão de TI)
             // - Cultura: CMMI Global (44-47 - Para entender o ambiente onde a infra roda)
             // - Compliance: Leis (58), LGPD (59 - Segurança da Informação/Acesso Privilegiado)
-            // - IA: Trilha Completa (111-117 19 - AUTOMAÇÃO de Ops)
+            // - IA: Trilha Completa (111-117 18 - AUTOMAÇÃO de Ops)
             obrigatorios: [
                 1, 2, 3, 
                 7, 
@@ -1341,7 +1341,7 @@ const config = {
             // - Metodologia: Framework Scrum (8), Fundamentos de Projetos (75), Gestão de Projetos (55 - Contexto)
             // - Controle: KPI (81 - Monitoramento), CMMI Global (44-47 - Conformidade de processo)
             // - Compliance: Leis (58), LGPD (59)
-            // - IA: Trilha Completa (111-117 19 - AUTOMAÇÃO de PMO)
+            // - IA: Trilha Completa (111-117 18 - AUTOMAÇÃO de PMO)
             obrigatorios: [
                 1, 2, 3, 
                 8, 25, 32, 
@@ -1369,7 +1369,7 @@ const config = {
             // - Ferramentas: Azure DevOps (25 - Versionamento de Scripts)
             // - Compliance: LGPD (59 - Crítico: Proteção de Dados)
             // - Cultura: CMMI Global (44-47)
-            // - IA: Trilha Completa (111-117 - Tuning e Automação)
+            // - IA: Trilha Completa (111-116 - Tuning e Automação)
             obrigatorios: [
                 1, 2, 3, 
                 25, 26, 
@@ -1424,7 +1424,7 @@ const config = {
             // - Técnico Base: Hardware/Redes (48), Pacote Office (32 - Suporte ao usuário final)
             // - Contexto Organizacional: CMMI Global (44-47 - Processos de suporte padronizados)
             // - Compliance: Leis (58), LGPD (59 - Acesso remoto e dados de terceiros)
-            // - IA: Trilha Completa (111-117 - Uso de KB inteligente/Chatbots)
+            // - IA: Trilha Completa (111-116 - Uso de KB inteligente/Chatbots)
             obrigatorios: [
                 1, 2, 3, 
                 7, 
@@ -1453,7 +1453,7 @@ const config = {
             // - Conhecimento do Produto (Institucional): CMMI Global (44-47 - Para criar conteúdo sobre a autoridade da marca)
             // - Gestão: Projetos (55 - Gestão de Campanhas/Prazos)
             // - Compliance: Leis (58), LGPD (59 - Tratamento de Leads/Mailing)
-            // - IA: Trilha Completa (111-117 - Geração de Copy/Imagens)
+            // - IA: Trilha Completa (111-116 - Geração de Copy/Imagens)
             obrigatorios: [
                 1, 2, 3, 
                 29, 32, 33, 
@@ -1466,7 +1466,7 @@ const config = {
             // Recomendados: 
             // - Vendas: Curso de Vendas (50 - Alinhamento Smarketing)
             // - Dados: Power BI (34 - Analytics de campanhas)
-            // 19 -19 -19 -19 - AUTOMAÇÃO: Manychat (109 - Chatbots de MKT)
+            // 18 -18 -18 -18 - AUTOMAÇÃO: Manychat (109 - Chatbots de MKT)
             // - Web Básico: HTML (93), CSS (94) - Ajustes em Landing Pages
             // - Soft Skills: Microbooks (6)
             recomendados: [6, 34, 50, 93, 94, 109]
@@ -1480,7 +1480,7 @@ const config = {
             // - Core Generalista: Gestão de Pessoas (53 - Foco em Clima/Retenção), Gestão de Processos (54 - Fluxos de RH)
             // - Jurídico/Compliance: Leis Trabalhistas (58), LGPD (59 - Dados Pessoais)
             // - Cultura/Estratégia: CMMI Global (44-47 - Alinhamento com a maturidade da empresa)
-            // - IA: Trilha Completa (111-117 - People Analytics/Comunicação)
+            // - IA: Trilha Completa (111-116 - People Analytics/Comunicação)
             obrigatorios: [
                 1, 2, 3, 
                 32, 
@@ -1507,7 +1507,7 @@ const config = {
             // - Organização: Gestão de Processos (54 - Gestão do Pipeline)
             // - Contexto: CMMI Global (44-47 - Para alinhar fit cultural)
             // - Compliance: Leis Trabalhistas (58), LGPD (59 - Dados de candidatos)
-            // - IA: Trilha Completa (111-117 - Sourcing e Triagem Inteligente)
+            // - IA: Trilha Completa (111-116 - Sourcing e Triagem Inteligente)
             obrigatorios: [
                 1, 2, 3, 
                 32, 
@@ -1534,7 +1534,7 @@ const config = {
             // - Core DP/Jurídico: Departamento Pessoal (51), Leis Trabalhistas (58), LGPD (59 - Dados sensíveis/saúde)
             // - Qualidade e Controle: Gestão de Processos (54), KPI (81 - Indicadores de custo/uso)
             // - Contexto: CMMI Global (44-47)
-            // - IA: Trilha Completa (111-117 19 - AUTOMAÇÃO de conferências e FAQ)
+            // - IA: Trilha Completa (111-117 18 - AUTOMAÇÃO de conferências e FAQ)
             obrigatorios: [
                 1, 2, 3, 
                 32, 
@@ -1561,7 +1561,7 @@ const config = {
             // - Jurídico/Compliance: Leis Trabalhistas (58), LGPD (59 - Sigilo absoluto de remuneração)
             // - Metodologia: Gestão de Processos (54), KPI (81 - Indicadores de folha/mercado)
             // - Contexto: CMMI Global (44-47 - Estruturação de competências por nível)
-            // - IA: Trilha Completa (111-117 - Análise de dados e benchmarking)
+            // - IA: Trilha Completa (111-116 - Análise de dados e benchmarking)
             obrigatorios: [
                 1, 2, 3, 
                 32, 
@@ -1586,7 +1586,7 @@ const config = {
             // - Core: Gestão Financeira (52)
             // - Processos: Gestão de Processos (54), CMMI Global (44-47 - Conformidade e Auditoria)
             // - Compliance: Leis (58), LGPD (59 - Dados bancários e fiscais)
-            // - IA: Trilha Completa (111-117 19 - AUTOMAÇÃO de rotinas financeiras)
+            // - IA: Trilha Completa (111-117 18 - AUTOMAÇÃO de rotinas financeiras)
             obrigatorios: [
                 1, 2, 3, 
                 32, 
@@ -1611,7 +1611,7 @@ const config = {
             // - Compliance: LGPD (59 - Tratamento de documentos pessoais)
             // - Organização: Gestão de Processos (54 - Ciclo Mensal de DP)
             // - Contexto: CMMI Global (44-47)
-            // - IA: Trilha Completa (111-117 19 - AUTOMAÇÃO de conferência e FAQs)
+            // - IA: Trilha Completa (111-117 18 - AUTOMAÇÃO de conferência e FAQs)
             obrigatorios: [
                 1, 2, 3, 
                 32, 
@@ -1633,7 +1633,7 @@ const config = {
             // - Básicos: Onboarding (1-3) + Office (32 - Uso diário para controles)
             // - Processos: Gestão de Processos (54 - Organização de rotinas), CMMI Global (44-47 - Padrão Edesoft)
             // - Compliance: Leis (58), LGPD (59 - Manuseio de documentos de diversos setores)
-            // - IA: Trilha Completa (111-117 - Produtividade e automação de documentos)
+            // - IA: Trilha Completa (111-116 - Produtividade e automação de documentos)
             obrigatorios: [
                 1, 2, 3, 
                 32, 
@@ -1656,7 +1656,7 @@ const config = {
             // - Básicos: Onboarding (1-3 - Integração e Cultura)
             // - Processos: Gestão de Processos (54 - Seguir roteiros de limpeza), CMMI Global (44-47 - Contexto da empresa)
             // - Compliance: Leis (58), LGPD (59 - Ética e sigilo ao circular em áreas restritas/com dados)
-            // - IA: Trilha Completa (111-117 - Inclusão digital e uso de assistentes para suporte à rotina)
+            // - IA: Trilha Completa (111-116 - Inclusão digital e uso de assistentes para suporte à rotina)
             obrigatorios: [
                 1, 2, 3, 
                 44, 45, 46, 47, 
@@ -1679,7 +1679,7 @@ const config = {
             // - Core Humano: Gestão de Pessoas (53), Recrutamento e Seleção (57), Metodologia DISC (76 - Diagnóstico de Perfil)
             // - Jurídico/Ética: Leis Trabalhistas (58), LGPD (59 - Crítico: Sigilo e proteção de dados sensíveis)
             // - Contexto: CMMI Global (44-47 - Alinhamento de comportamento e maturidade)
-            // - IA: Trilha Completa (111-117 - Análise de sentimentos e People Analytics)
+            // - IA: Trilha Completa (111-116 - Análise de sentimentos e People Analytics)
             obrigatorios: [
                 1, 2, 3, 
                 32, 
@@ -1698,6 +1698,7 @@ const config = {
     ]
 
 };
+
 
 
 
