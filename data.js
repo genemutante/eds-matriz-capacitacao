@@ -19,56 +19,56 @@ const config = {
     treinamentos: [
         { 
             id: 1, 
-            nome: "ONBOARDING: Programas Edesoft", 
+            nome: "01 - ONBOARDING: Programas Edesoft", 
             color: colors.purple,
             desc: "Apresenta os programas da Edesoft, permitindo que os colaboradores compreendam as oportunidades de desenvolvimento profissional e pessoal dentro da empresa, integrando-se melhor aos projetos da organização."
         },
         { 
             id: 2, 
-            nome: "ONBOARDING: Rotinas Internas", 
+            nome: "01 - ONBOARDING: Rotinas Internas", 
             color: colors.purple,
             desc: "Orienta os colaboradores sobre os processos e rotinas da empresa, facilitando sua adaptação ao ambiente de trabalho e garantindo uma participação eficiente nas atividades diárias como parte do time."
         },
         { 
             id: 3, 
-            nome: "ONBOARDING: Imagem & Estilo", 
+            nome: "01 - ONBOARDING: Imagem & Estilo", 
             color: colors.purple,
             desc: "Ensina sobre a importância da imagem pessoal e profissional, ajudando os colaboradores a se alinharem com os padrões culturais da empresa, refletindo confiança e profissionalismo em sua atuação."
         },
 
         { 
             id: 5, 
-            nome: "DESENV. PESSOAL: Leadership", 
+            nome: "02 - DESENV. PESSOAL: Leadership", 
             color: colors.black,
             desc: "Desenvolve habilidades de liderança, ajudando o colaborador a se tornar um líder eficaz, capaz de influenciar e motivar equipes com confiança e clareza."
         },
         { 
             id: 6, 
-            nome: "DESENV. PESSOAL: Microbooks", 
+            nome: "02 - DESENV. PESSOAL: Microbooks", 
             color: colors.black,
             desc: "Fornece resumos rápidos de livros, facilitando o acesso ao conhecimento de obras importantes para o desenvolvimento pessoal e profissional."
         },
         { 
             id: 7, 
-            nome: "OUTSOURCING: Service Desk", 
+            nome: "03 - OUTSOURCING: Service Desk", 
             color: colors.orange,
             desc: "Aborda técnicas e ferramentas para atendimento e suporte ao cliente, ajudando a melhorar o serviço e a satisfação dos usuários."
         },
         { 
             id: 8, 
-            nome: "OUTSOURCING: Framework Scrum", 
+            nome: "03 - OUTSOURCING: Framework Scrum", 
             color: colors.orange,
             desc: "Apresenta o framework Scrum, detalhando suas práticas e como implementá-las para melhorar a gestão de projetos ágeis."
         },
         { 
             id: 9, 
-            nome: "OUTSOURCING: Logística Rodoviária", 
+            nome: "03 - OUTSOURCING: Logística Rodoviária", 
             color: colors.orange,
             desc: "Ensina sobre o gerenciamento logístico no transporte rodoviário, otimizando o fluxo de mercadorias e o desempenho das operações."
         },
         { 
             id: 10, 
-            nome: "OUTSOURCING: Lógica de Programação", 
+            nome: "03 - OUTSOURCING: Lógica de Programação", 
             color: colors.orange,
             desc: "Introduz conceitos básicos de programação, ajudando o colaborador a desenvolver raciocínio lógico para resolver problemas técnicos."
         },
@@ -1747,6 +1747,7 @@ const config = {
     ]
 
 };
+
 
 
 
