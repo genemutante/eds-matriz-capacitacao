@@ -386,67 +386,67 @@ const config = {
         },
         { 
             id: 66, 
-            nome: "16 - GESTÃO DE TIMES: SERVICE DESK", 
+            nome: "16 - GOVERNANÇA: SERVICE DESK", 
             color: colors.red,
             desc: "Ensina como gerenciar uma central de serviços de TI, focando no atendimento eficiente e solução de problemas técnicos."
         },
         { 
             id: 67, 
-            nome: "16 - GESTÃO DE TIMES: ITIL - Overview", 
+            nome: "16 - GOVERNANÇA: ITIL - Overview", 
             color: colors.red,
             desc: "Fornece uma visão geral do ITIL, apresentando os principais conceitos e práticas para a gestão de serviços de TI."
         },
         { 
             id: 68, 
-            nome: "16 - GESTÃO DE TIMES: ITIL - Carreiras", 
+            nome: "16 - GOVERNANÇA: ITIL - Carreiras", 
             color: colors.red,
             desc: "Capacita o colaborador a explorar as diferentes carreiras disponíveis no ITIL, auxiliando na definição de trajetórias profissionais."
         },
         { 
             id: 69, 
-            nome: "16 - GESTÃO DE TIMES: ITIL 4", 
+            nome: "16 - GOVERNANÇA: ITIL 4", 
             color: colors.red,
             desc: "Ensina os fundamentos do ITIL 4, preparando o colaborador para aplicar boas práticas de gerenciamento de serviços de TI."
         },
         { 
             id: 70, 
-            nome: "16 - GESTÃO DE TIMES: COBIT 2019", 
+            nome: "16 - GOVERNANÇA: COBIT 2019", 
             color: colors.red,
             desc: "Apresenta o framework COBIT 2019, capacitando o colaborador a gerenciar e governar a TI dentro das organizações."
         },
         { 
             id: 71, 
-            nome: "16 - GESTÃO DE TIMES: FAMÍLIA ISO 20000", 
+            nome: "16 - GOVERNANÇA: FAMÍLIA ISO 20000", 
             color: colors.red,
             desc: "Capacita o colaborador a entender e aplicar as normas da família ISO 20000 para gerenciamento de serviços de TI."
         },
         { 
             id: 72, 
-            nome: "16 - GESTÃO DE TIMES: FAMÍLIA ISO 27000", 
+            nome: "16 - GOVERNANÇA: FAMÍLIA ISO 27000", 
             color: colors.red,
             desc: "Ensina a importância da conformidade com as normas da família ISO 27000, preparando o colaborador para garantir a segurança da informação."
         },
         { 
             id: 73, 
-            nome: "16 - GESTÃO DE TIMES: Gestão Ágil com SCRUM", 
+            nome: "16 - GOVERNANÇA: Gestão Ágil com SCRUM", 
             color: colors.red,
             desc: "Ensina o uso do Scrum para gestão ágil de projetos, capacitando o colaborador a integrar times ágeis e entregar valor continuamente."
         },
         { 
             id: 74, 
-            nome: "16 - GESTÃO DE TIMES: AgileSHIFT", 
+            nome: "16 - GOVERNANÇA: AgileSHIFT", 
             color: colors.red,
             desc: "Capacita o colaborador a navegar pelas mudanças organizacionais e adotar práticas ágeis com o framework AgileSHIFT."
         },
         { 
             id: 75, 
-            nome: "16 - GESTÃO DE TIMES: Fundamentos de Projetos", 
+            nome: "16 - GOVERNANÇA: Fundamentos de Projetos", 
             color: colors.red,
             desc: "Ensina os conceitos básicos de gestão de projetos, capacitando o colaborador a planejar, executar e monitorar projetos com sucesso."
         },
         { 
             id: 76, 
-            nome: "16 - GESTÃO DE TIMES: Metodologia DISC", 
+            nome: "16 - GOVERNANÇA: Metodologia DISC", 
             color: colors.red,
             desc: "Ensina a metodologia DISC, ajudando o colaborador a entender perfis comportamentais para melhorar a comunicação e a gestão de equipes."
         },
@@ -1098,7 +1098,7 @@ const config = {
             corClass: "b-gold",
             // Obrigatórios: 
             // - Básicos: Onboarding (1-3) + Leadership (5) + Office (32)
-            // - Core Service Desk: Outsourcing Service Desk (7), 16 - GESTÃO DE TIMES: Service Desk (66)
+            // - Core Service Desk: Outsourcing Service Desk (7), 16 - GOVERNANÇA: Service Desk (66)
             // - Metodologia ITSM: ITIL 4 Foundation (38), ITIL Overview (67)
             // - Base Técnica: Infraestrutura/Redes (48)
             // - Processo/Controle: KPI (81), CMMI Global (44-47)
@@ -1741,6 +1741,7 @@ const config = {
     ]
 
 };
+
 
 
 
