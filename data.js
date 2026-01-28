@@ -68,12 +68,6 @@ const config = {
             desc: "Ensina sobre o gerenciamento logístico no transporte rodoviário, otimizando o fluxo de mercadorias e o desempenho das operações."
         },
         { 
-            id: 10, 
-            nome: "03 - OUTSOURCING: Lógica de Programação", 
-            color: colors.orange,
-            desc: "Introduz conceitos básicos de programação, ajudando o colaborador a desenvolver raciocínio lógico para resolver problemas técnicos."
-        },
-        { 
             id: 14, 
             nome: "04 - QA: Custos da não qualidade", 
             color: colors.green,
@@ -1734,6 +1728,7 @@ const config = {
     ]
 
 };
+
 
 
 
