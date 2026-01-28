@@ -73,12 +73,6 @@ const config = {
             desc: "Introduz conceitos básicos de programação, ajudando o colaborador a desenvolver raciocínio lógico para resolver problemas técnicos."
         },
         { 
-            id: 13, 
-            nome: "PROCESSOS: Mapeamento de Processos", 
-            color: colors.blueLight,
-            desc: "Capacita o colaborador a identificar, documentar e otimizar os processos internos, garantindo maior eficiência e alinhamento com os objetivos estratégicos da empresa e dos clientes."
-        },
-        { 
             id: 14, 
             nome: "QA: Custos da não qualidade", 
             color: colors.green,
@@ -457,56 +451,62 @@ const config = {
             desc: "Ensina a metodologia DISC, ajudando o colaborador a entender perfis comportamentais para melhorar a comunicação e a gestão de equipes."
         },
         { 
+            id: 13, 
+            nome: "PROCESSOS: Mapeamento de Processos", 
+            color: colors.blueLight,
+            desc: "Capacita o colaborador a identificar, documentar e otimizar os processos internos, garantindo maior eficiência e alinhamento com os objetivos estratégicos da empresa e dos clientes."
+        },
+        { 
             id: 77, 
-            nome: "Melhoria de Processos: Bizagi Modeler", 
+            nome: "PROCESSOS: Bizagi Modeler", 
             color: colors.cyan,
             desc: "Ensina o uso do Bizagi Modeler para modelagem de processos de negócios, otimizando fluxos de trabalho."
         },
         { 
             id: 78, 
-            nome: "Melhoria de Processos: Estatística Básica", 
+            nome: "PROCESSOS: Estatística Básica", 
             color: colors.cyan,
             desc: "Capacita o colaborador a compreender conceitos básicos de estatística, aplicando-os na análise de dados para melhoria contínua."
         },
         { 
             id: 79, 
-            nome: "Melhoria de Processos: Introdução ao Lean", 
+            nome: "PROCESSOS: Introdução ao Lean", 
             color: colors.cyan,
             desc: "Introduz os princípios do Lean, capacitando o colaborador a eliminar desperdícios e aumentar a eficiência nos processos."
         },
         { 
             id: 80, 
-            nome: "Melhoria de Processos: KAIZEN", 
+            nome: "PROCESSOS: KAIZEN", 
             color: colors.cyan,
             desc: "Apresenta a metodologia Kaizen, ensinando o colaborador a implementar melhorias contínuas em processos de trabalho."
         },
         { 
             id: 81, 
-            nome: "Melhoria de Processos: KPI", 
+            nome: "PROCESSOS: KPI", 
             color: colors.cyan,
             desc: "Ensina como definir e medir indicadores de desempenho (KPIs), fundamentais para monitorar e otimizar a performance organizacional."
         },
         { 
             id: 82, 
-            nome: "Melhoria de Processos: Lean White Belt", 
+            nome: "PROCESSOS: Lean White Belt", 
             color: colors.cyan,
             desc: "Introduz os fundamentos do Lean Seis Sigma White Belt, capacitando o colaborador a apoiar iniciativas de melhoria de qualidade."
         },
         { 
             id: 83, 
-            nome: "Melhoria de Processos: Lean Yellow Belt", 
+            nome: "PROCESSOS: Lean Yellow Belt", 
             color: colors.cyan,
             desc: "Ensina os conceitos do Lean Seis Sigma Yellow Belt, preparando o colaborador para liderar pequenas melhorias em processos."
         },
         { 
             id: 84, 
-            nome: "Melhoria de Processos: Map. de Processos", 
+            nome: "PROCESSOS: Map. de Processos", 
             color: colors.cyan,
             desc: "Capacita o colaborador a mapear e modelar processos, promovendo uma visão clara dos fluxos de trabalho e suas melhorias."
         },
         { 
             id: 85, 
-            nome: "Melhoria de Processos: MASP & PDCA", 
+            nome: "PROCESSOS: MASP & PDCA", 
             color: colors.cyan,
             desc: "Apresenta as metodologias MASP e PDCA para resolução de problemas e melhoria contínua, garantindo processos mais eficientes."
         },
@@ -1747,6 +1747,7 @@ const config = {
     ]
 
 };
+
 
 
 
